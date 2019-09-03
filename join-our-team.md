@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Richmond Careers
 permalink: /join-our-team/
 ---
 
@@ -15,39 +15,56 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Fellow Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage or on a traditional team as part of someone else’s personal brand. You understand your potential and are working hard to clear a path toward your goals, but currently lack the support you need to achieve them. You feel stuck and you don’t know if you’re ever going to be able to take your business to the next level.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, 87% of all new agents fail within their first 18 months.</p>
+
+<p>This isn’t to say that these agents don’t try to make it work. The simple truth is that even the most talented individuals can’t thrive if they’re struggling with an inadequate work environment, and proper training is a rare thing in our business.</p>
+
+<p>Think of it this way: A mountain climber couldn’t make it up Mt. Everest without any gear, could they? Of course not. The same is true of real estate agents. If you want to get to the top, you need to be properly equipped. In other words, you need coaching, you need resources, and you need to surround yourself with a group of professionals who are as determined and growth-minded as you are.</p>
+
+<p>My name is Marc Austin Highfill; I’ve mentored hundreds of agents in this business and helped them find success through our coaching and training programs. Our programs are personalized for each individual agent to help them do what they do best, while also giving them the proper support and coaching to continually improve.</p>
+
+<p>Agents who join us gain immediate access to a multitude of resources, such as:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>One-on-one coaching and mentorship that’s personalized to you</li>
+<li>Teaching you how to use your own prospecting wheel</li>
+<li>IDX Website and marketing materials, and the training on using them to leverage your business</li>
+<li>Scripts and role playing</li>
+<li>90-day comprehensive start-up program</li>
+<li>Personality testing</li>
+<li>Best prospecting practices</li>
+<li>Daily training</li>
+<li>Weekly mastermind meetings</li>
+<li>A large library of online training</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>Most places offer coaching from agents who haven’t been out selling homes for quite some time. Our team members are top producers, sharing their first-hand field experience every day to help others.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Ultimately, the fate of your life and career is in your hands. You can try to go it alone as a solo agent, continue struggling at your current brokerage, or even leave the industry entirely — or you could join us, plug into our systems and coaching, and start seeing the success you deserve.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>But don’t just take my word for it. Consider the story of Trent.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Trent is just in his third year of real estate after joining the business from a construction background.  He didn’t feel like he had control over his profitability, always at the mercy of someone else’s schedule.  This year, after working our systems, he’s on track to make well over $100,000 - and has increased his business by 50% year over year. His story is proof that our systems work if you work them.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Now is your chance to write your own story. The opportunity to change your life is right in front of you.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>If you’re interested in the chance to earn a great living while growing your business exponentially, we want to hear from you.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>When you join us, your path to success starts right away. We’ll send you through our intensive onboarding system, which includes a 90-day program where we’ll teach you anything and everything you need to know to build a foundation for success. By the end of this period, you’ll be ready to get out there and start doing business on a level that you’ve only dreamed about.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Our support-oriented environment helps professionals learn, grow, and thrive. People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals, you need support, coaching, resources, and leads—so that is exactly what we provide. In fact, we guarantee that if you follow our system correctly, you’ll sell at least 12 homes in your first year with us.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>So what are you waiting for? It’s time to take control of your future and see first-hand how joining our team can transform your life and career. The longer you wait to reach out, the longer you’re suppressing your true potential. We only have four openings available, so don’t hesitate to reach out today. Let’s have a conversation.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>I look forward to talking to you soon!</p>
+
+<p>Marc Austin Highfill<br>
+Broker/Owner<br>
+EXIT First Realty</p>
+
 
 
 
