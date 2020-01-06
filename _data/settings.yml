@@ -9,6 +9,8 @@ custom_links:
     url: https://marcshomes.eventbrite.com/
   - title: Free Strategy Call
     url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 client:
   name: Marc Austin Highfill
   title:
