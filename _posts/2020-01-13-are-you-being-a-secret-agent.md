@@ -14,7 +14,7 @@ enclosure:
 pullquote: Don't be a secret agent.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/marc-highfill--the-easiest-way-to-gain-more-leads-youtube.jpg
 youtube_code: tsPTym2Bpns
 ---
