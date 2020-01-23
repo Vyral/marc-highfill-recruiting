@@ -19,11 +19,11 @@ youtube_alternate_image: /uploads/marc-highfill--the-easiest-way-to-gain-more-le
 youtube_code: tsPTym2Bpns
 ---
 
+{% include youtube.html %}
+
 What’s the easiest way to get more leads? **Don’t be a secret agent.**&nbsp;
 
 To show you what I mean by that, let me tell you about how we do business at Exit First Realty.
-
-{% include youtube.html %}
 
 We coach our agents on how to find and generate different leads every day. We start by creating awareness that you’re in the real estate business. It could be something like wearing name tags or sticking signs on your car. Even your social media account is tagged. We also teach you how to build a database and contact that database to make sure everyone in it knows about the services you provide.&nbsp;
 
