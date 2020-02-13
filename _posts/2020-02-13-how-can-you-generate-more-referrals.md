@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/EXecqkHD-c8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Repeat clients and referrals are one of the most reliable sources of business. Here’s what you need to do to make this a pillar of yours.</em></p>
+
 If you want to generate more referral business from your past clients and sphere of influence, here are the things you must be doing:
 
 **1\. You need to have a CRM and database.** Which CRM is the best to use? The one that you use. It’s best to have one centrally located database, too. I’ve talked to some agents who’ve used Follow up Boss, Boomtown, and Top Producer who have all had success. It’s important to keep that database in one place, add to it every day, and make sure everyone you know is in there.&nbsp;
