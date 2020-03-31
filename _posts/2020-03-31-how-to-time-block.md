@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/UOrUBPoE6rE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some time blocking tips that will help you be more successful.</em></p>
+
 The key to being more successful is time blocking and time management. How do you manage your time efficiently and utilize time blocking?
 
 First, you must **use a calendar system.** Whether it’s a calendar book or Google Calendar, you need a calendar you’ll use every day.&nbsp;
