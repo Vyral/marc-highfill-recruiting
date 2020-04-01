@@ -23,7 +23,7 @@ The key to being more successful is time blocking and time management. How do yo
 
 First, you must **use a calendar system.** Whether it’s a calendar book or Google Calendar, you need a calendar you’ll use every day.&nbsp;
 
-Once you have a calendar, it’s time to schedule your “rocks.” These are the most important things that must be done every day, like prospecting, showing appointments, inspections, etc. These things are non-negotiable, don’t interfere with them.&nbsp;
+Once you have a calendar, it’s time to schedule your “rocks.” These are the most important things that must be done every day, like prospecting, showing appointments, inspections, etc. These things are non-negotiable—don’t interfere with them.&nbsp;
 
 You should prospect for at least two hours, and your prospecting goal is to schedule appointments. If you’re prospecting for one hour, prospect hard and fast for 50 minutes and then take a 10-minute break. If you need to check your phone, get up and walk around, or do anything else you need to do to keep your energy up, do it during this break. The next hour, do the exact same thing.&nbsp;
 
