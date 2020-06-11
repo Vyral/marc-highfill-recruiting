@@ -47,7 +47,7 @@ client:
 sidebar_CTA:
   - CTA_image_path: 'https://moseley.org/moseleyBadge.png'
     CTA_title: Moseley
-    CTA_text:
+    CTA_text: 'Learn Local, Succeed Local'
     CTA_link_text: Learn more
     CTA_url: 'https://moseley.org/'
   - CTA_image_path: /img/cta-images/001.jpg
