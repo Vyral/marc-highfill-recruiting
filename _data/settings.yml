@@ -45,6 +45,11 @@ client:
   email: marc@marcshomes.net
   url: 'https://www.marcshomes.com'
 sidebar_CTA:
+  - CTA_image_path: 'https://moseley.org/moseleyBadge.png'
+    CTA_title: Moseley
+    CTA_text:
+    CTA_link_text: Learn more
+    CTA_url: 'https://moseley.org/'
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: >-
@@ -52,11 +57,6 @@ sidebar_CTA:
       heights.
     CTA_link_text: Free Strategy Session
     CTA_url: /contact/
-  - CTA_image_path: 'https://moseley.org/moseleyBadge.png'
-    CTA_title: Moseley
-    CTA_text:
-    CTA_link_text: Learn more
-    CTA_url: 'https://moseley.org/'
 lender:
   show_section: false
   header_text: Preferred Lender
