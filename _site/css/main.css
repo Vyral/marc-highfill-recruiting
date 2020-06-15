@@ -1244,6 +1244,31 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+.cta-button2 {
+  bottom: 20px;
+  justify-content: center;
+  display: block;
+  color: #028798;
+  background-color: #fff;
+  border: 2px solid #028798;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button2 a {
+    color: #028798; }
+  .cta-button2:hover {
+    border: 2px solid #028798;
+    color: #fff;
+    background-color: #028798; }
+    .cta-button2:hover a {
+      color: #fff; }
+
 .jp-audio {
   border: 0;
   color: #028798;
@@ -1486,8 +1511,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0));
+  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0)); }
 
 .site-title {
   color: #028798;
@@ -1951,7 +1976,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0); }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1965,7 +1990,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0);
   margin-bottom: 1rem; }
 
 .tag {
@@ -1976,7 +2001,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0);
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2557,7 +2582,7 @@ form select {
       transform: translateY(0rem); }
 
 .cta {
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   color: #028798;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2673,8 +2698,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0));
+  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0)); }
 
 .page-hero-img {
   background-position: center;
