@@ -16,7 +16,7 @@ youtube_code: 2Mjn2hPRGWk
 
 {% include youtube.html %}
 
-Here are a few tools that every agent should be able to utilize.
+*Here are a few tools that every agent should be able to utilize.*
 
 I often speak with agents who have just one or two tools in their toolbox. What I mean is that they only have one or two ways of bringing in business. Having a couple will only get you so far. **You need a full business toolbox to become an expert real estate agent.**
 
