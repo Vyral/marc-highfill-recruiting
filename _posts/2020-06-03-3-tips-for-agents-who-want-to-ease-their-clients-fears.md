@@ -16,7 +16,7 @@ youtube_code: uzpaDVj-nAQ
 
 {% include youtube.html %}
 
-In today’s market, you should combat clients’ uncertainties with facts.
+*In today’s market, you should combat clients’ uncertainties with facts.*
 
 With everything going on right now, it’s easy to get caught up in the media hype. Sometimes it can be hard to know what to say to ease your clients’ fears about the market. However, today I have the facts and tips that you should share with your clients to position you as the neighborhood expert and a voice of reason, which will increase your business:
 
