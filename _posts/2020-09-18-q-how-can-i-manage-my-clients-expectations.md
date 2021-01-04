@@ -18,8 +18,6 @@ youtube_code: 9Ea2emU4B_Q
 
 *Here’s my advice for agents struggling with setting client expectations.*
 
-&nbsp;
-
 If you’re a real estate agent who’s struggling with managing your clients’ expectations in this crazy real estate market, you’re not alone (and you’re in luck). Today I have some great tips and advice for you to help your buyers and sellers navigate our current climate.
 
 With today’s hot seller’s market in Richmond, it can be challenging to manage your clients’ expectations. I’ve been there. It’s important to provide specific information so they can be prepared for what to expect. Here are my best tips:
