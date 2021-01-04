@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/refocus-for-2021-yt-marc-highfill.jpg
 youtube_code: llSzYgbwA7Q
 ---
 
 {% include youtube.html %}
 
-*Here’s how to set your business up for success in 2021. *
+*Here’s how to set your business up for success in 2021.&nbsp;*
 
 Lately, some of our agents’ business has plateaued in advance of the coming holiday season, either due to changes in the market or uncertainty about the future. This thing is, now is actually the most important time for you to refocus your energy, create a solid business plan, and put an accountability system in place so you can start next year with a bang.&nbsp;
 
