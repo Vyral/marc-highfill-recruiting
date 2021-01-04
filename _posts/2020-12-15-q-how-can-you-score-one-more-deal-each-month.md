@@ -18,7 +18,7 @@ youtube_code: 45KwMeHE9eA
 
 {% include youtube.html %}
 
-*Here’s how our coaching systems can bring you one extra deal per month.&nbsp;*
+<p style="text-align: center;"><em>Here’s how our coaching systems can bring you one extra deal per month.</em></p>
 
 Do you want to close more deals? If so, could you benefit from advanced and ongoing coaching to help grow your business?&nbsp;
 
