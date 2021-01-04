@@ -24,9 +24,9 @@ With everything going on right now, it’s easy to get caught up in the media hy
 
 **2\. Don’t be a salesperson.** Be empathetic and helpful instead. There will be prospects who want to put their home search on hold with everything going on. Respect their wishes, and continue to provide them value on a regular basis. It’s important to make a connection and talk to them, and the business will come later. They should know that you're there to help, not just to sell.
 
-**3\. You have to stay in touch.** Do you have a systematic way to regularly stay in touch with your database? The fortune is definitely in the follow up. Many people are home and available to talk, so take advantage of those opportunities while things are still shut down. You can call, send a handwritten note, mail market info to them, and provide video, text, and emails. It’s important to stay top of mind and ease their fears.
-
 {% include pullquote.html %}
+
+**3\. You have to stay in touch.** Do you have a systematic way to regularly stay in touch with your database? The fortune is definitely in the follow up. Many people are home and available to talk, so take advantage of those opportunities while things are still shut down. You can call, send a handwritten note, mail market info to them, and provide video, text, and emails. It’s important to stay top of mind and ease their fears.
 
 The bottom line to all of this is that real estate is still moving and business is still happening. If you can position yourself as an expert by providing helpful info and making a connection, then stay in regular contact with top of mind, the business will come.&nbsp;
 
