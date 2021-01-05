@@ -5,7 +5,8 @@ date: 2021-01-05 19:12:09
 tags:
   - Reviews and Referrals
 excerpt: Our coaching systems are what make us unique compared to other firms.
-enclosure:
+enclosure: >\
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/What+Do+Our+Coaching+Systems+Offer_.mp4
 pullquote: Exit First Realty is real estate humanized.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 1YZC9PaXG0k
 
 {% include youtube.html %}
 
-Our coaching systems are what make us unique compared to other firms.
+<p style="text-align: center;"><em>Our coaching systems are what make us unique compared to other firms.</em></p>
 
 What kind of coaching systems do we offer that can propel your success as an agent? You see, Exit First Realty is real estate humanized. **Our goal as an organization is to build strong, successful agents who’re financially free.** We care about our agents to the point where we refer to our brokerage as a family disguised as a real estate company.&nbsp;
 
