@@ -19,7 +19,7 @@ youtube_code: 1YZC9PaXG0k
 
 <p style="text-align: center;"><em>Our coaching systems are what make us unique compared to other firms.</em></p>
 
-What kind of coaching systems do we offer that can propel your success as an agent? You see, Exit First Realty is real estate humanized. **Our goal as an organization is to build strong, successful agents who’re financially free.** We care about our agents to the point where we refer to our brokerage as a family disguised as a real estate company.&nbsp;
+What kind of coaching systems do we offer that can propel your success as an agent? Exit First Realty is real estate humanized. **Our goal as an organization is to build strong, successful agents who are financially free.** We care about our agents to the point where we refer to our brokerage as a family disguised as a real estate company.&nbsp;
 
 The way we implement this goal is by creating unique coaching strategies that are tailored to each agent’s needs and objectives. Many companies offer a one-size-fits-all approach to training. They firehose you with information at the beginning and then tell you to try making it on your own without offering much follow-up coaching or training to help you reach the next level. Our approach is different.&nbsp;
 
@@ -29,7 +29,7 @@ While we do offer initial training, it’s tailored to your specific behavioral 
 
 We pull the best coaching methods from other systems and combine them with our Exit flair so they work for our agents. Our office also partners with national and international coaching operations. We take advice from these titans of industry and boil it down to specific action plans we share with our agents free of charge. We then have daily, weekly, and monthly coaching sessions each agent is encouraged to attend, including:
 
-* One-line webinars
+* Online webinars
 * Face-to-face meetings with your coach
 * Team-building exercises
 * Individual growth plans that push you to always get better in your craft
