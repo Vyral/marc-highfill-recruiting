@@ -6,7 +6,7 @@ tags:
   - Reviews and Referrals
 excerpt: Our coaching systems are what make us unique compared to other firms.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/What+Do+Our+Coaching+Systems+Offer_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/What+Do+Our+Coaching+Systems+Offer_+(1).mp4
 pullquote: Exit First Realty is real estate humanized.
 enclosure_type: video/mp4
 enclosure_time:
