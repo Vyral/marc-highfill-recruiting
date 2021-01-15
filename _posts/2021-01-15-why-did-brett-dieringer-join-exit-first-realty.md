@@ -17,7 +17,7 @@ youtube_code: FKk6kmqvrvg
 
 {% include youtube.html %}
 
-Here’s the story of agent Brett Dieringer’s time at Exit First Realty.
+*Here’s the story of agent Brett Dieringer’s time at Exit First Realty.*
 
 Today we’re joined by Realtor-extraordinaire Brett Dieringer to discuss his journey in the real estate business. We’ll talk about how he chose the real estate profession, what convinced him to join Exit First Realty, and how we’ve helped propel his career. If you’re thinking of becoming a real estate agent or are looking to join a brokerage that can build your business, this interview is for you.&nbsp;
 
