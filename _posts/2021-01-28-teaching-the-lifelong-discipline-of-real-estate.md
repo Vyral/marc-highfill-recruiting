@@ -17,7 +17,7 @@ youtube_code: ZkUtzbCubAM
 
 {% include youtube.html %}
 
-Here’s the backstory on why I keep a belt display in my office.
+*Here’s the backstory on why I keep a belt display in my office.*
 
 Have you ever wondered why I have a Tae-Kwon-Do colored belt system on display behind me in almost every one of my videos? I can promise you it’s not for bragging rights or to show off; it’s actually used as a coaching tool for all of our agents here at Exit First Realty.&nbsp;
 
