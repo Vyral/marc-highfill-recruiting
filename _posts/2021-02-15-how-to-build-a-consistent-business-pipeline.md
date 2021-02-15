@@ -4,10 +4,11 @@ title: How to Build a Consistent Business Pipeline
 date: 2021-02-15 09:12:00
 tags:
   - Reviews and Referrals
-excerpt:
-enclosure: >-
+excerpt: >-
   If you want consistent business, you need to diversify your lead generation
   sources.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/How+to+Build+a+Consistent+Business+Pipeline.mp4
 pullquote: You can’t be one-dimensional in your real estate lead generation.
 enclosure_type: video/mp4
 enclosure_time:
