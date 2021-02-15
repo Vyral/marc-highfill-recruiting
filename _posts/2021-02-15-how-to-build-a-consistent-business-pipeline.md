@@ -28,13 +28,9 @@ This is a common problem for not just agents, but anyone who works in commission
 Think of it like fishing: If you want to catch the most fish, you need to have multiple lines in the water with multiple types of bait, all working at the same time. The same holds true for real estate. As agents, we need to be working several different lead sources in order to build a pipeline of consistent business. **For example, here are some of the lead generation systems we coach:**
 
 * Investment real estate. This gives you many different options: buy-and-hold properties, flipping properties, property management, etc.
-
 * How to effectively geo-farm or work a target neighborhood.&nbsp;
-
 * Properly managing your social media to passively generate leads. I’m not talking about just posting something here and there; I’m talking about truly making your social media a lead generation resource.
-
 * How to turn open house leads into loyal clients. I run across agents all the time who insist that open houses don’t work, but the agents I coach have great success with open houses so long as they use our coaching methods.
-
 * Turning past clients into consistent referral business.&nbsp;
 
 {% include pullquote.html %}
