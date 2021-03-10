@@ -17,7 +17,7 @@ youtube_code: 0142lcSXyQo
 ---
 {% include youtube.html %}
 
-With our coaching, you can and will make more money.
+*With our coaching, you can and will make more money.*
 
 I speak with agents at other brokerages all the time who are making 100% commission but still aren’t where they want to be in their business. I like to pose a question to them: “Would you rather make 100% commission while closing an average of, say, 18 deals per year, or would it be better to make 80% to 90% while closing 24 to 36 deals a year?”
 
