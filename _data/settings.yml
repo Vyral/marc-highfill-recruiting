@@ -14,6 +14,10 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+
+forms:
+  sitekey: 6Ldr6nkaAAAAAHvDlncVyWv3ATORf5FxaoUar04B
+
 client:
   name: Marc Austin Highfill
   title:
