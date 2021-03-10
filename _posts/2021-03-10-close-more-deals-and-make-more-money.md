@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: 'With our coaching, you can and will make more money.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Close+More+Deals+and+Make+More+Money.mp4
 pullquote: 'Our coaching can help you close more deals, which means you make more money.'
 enclosure_type: video/mp4
 enclosure_time:
