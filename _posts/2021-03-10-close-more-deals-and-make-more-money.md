@@ -25,7 +25,7 @@ Here at Exit First Realty, **our track record proves that agents who join our te
 
 Our coaching will also teach you how to turn your past clients into raving fans. It’s a lot better to have 36 clients who appreciate you and will send you referrals than having just 18 clients who *might* send you referrals. Our coaching teaches you how to have more reach, nurture your past clients, and leverage your business to the next level.&nbsp;
 
-By doing this, our Exit Realty agents also see another 25% to 50% increase in their business in their second year with our company. Our coaching is tailored to where you’re at in your business and where you want to go. We add additional coaching to ensure that you get to the next level. The more you know, the more you grow.
+By doing this, our Exit Realty agents also see another 25% to 50% increase in their business in their second year with our company. Our coaching is tailored to where you are in your business and where you want to go. We add additional coaching to ensure that you get to the next level. The more you know, the more you grow.
 
 As I mentioned before, **our coaching is free to all our agents.** You’ll get real-life, street-smart strategies that you can implement in your business now to help you close more deals. Our coaches are active agents who are also working in their business and writing deals daily. We utilize real-world examples to give our agents a slight edge over their competition.
 
