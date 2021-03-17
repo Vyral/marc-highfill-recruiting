@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/close-more-deals-yt-marc-highfill-ss.jpg
-youtube_code: 5emGgeze1Ro
+youtube_code: kkAY5pB-pEk
 ---
 {% include youtube.html %}
 
