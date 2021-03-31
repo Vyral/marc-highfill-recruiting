@@ -18,7 +18,7 @@ youtube_code: nSPmH9RP6sk
 {% include youtube.html %}
 
 <center><em>Here are eight skills every great real estate agent needs to master.</em></center>
-<br>
+&nbsp;
 
 We all know the past year has been a challenging time in the real estate market. Through my time coaching with agents, I’ve identified eight specific skills that agents must master in order to maintain success in any type of market:
 
