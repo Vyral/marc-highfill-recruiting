@@ -18,9 +18,10 @@ youtube_code: nSPmH9RP6sk
 {% include youtube.html %}
 
 <center><em>Here are eight skills every great real estate agent needs to master.</em></center>
+
 &nbsp;
 
-We all know the past year has been a challenging time in the real estate market. Through my time coaching with agents, I’ve identified eight specific skills that agents must master in order to maintain success in any type of market:
+We all know the past year has been a challenging time in the real estate market. Through my time coaching agents, I’ve identified eight specific skills that agents must master in order to maintain success in any type of market:
 
 **1\. Laser focus.** You have to be proactive and focus on conquering one thing at a time.
 
@@ -34,7 +35,7 @@ We all know the past year has been a challenging time in the real estate market.
 
 **5\. Negotiations and problem solving.** You have to be the best possible advocate for your clients and problem solve based on your past experiences.
 
-**6\. Honesty.** This one should go without saying, but you’d be surprised at the dishonesty we see. Make sure you’re not an agent who provides true, accurate, and unbiased information to your client.
+**6\. Honesty.** This one should go without saying, but you’d be surprised at the dishonesty we see. Make sure you’re an agent who provides true, accurate, and unbiased information to your client.
 
 **7\. Emotional intelligence.** It’s a very busy time and agents are losing their cool. We need to stay calm and be the voice of reason, as well as the source of the information.
 
