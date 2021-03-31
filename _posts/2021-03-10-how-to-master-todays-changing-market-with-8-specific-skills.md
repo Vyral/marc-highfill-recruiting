@@ -7,13 +7,13 @@ tags:
   - Lead Generation
 excerpt: Here are eight skills every great real estate agent needs to master.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/How+to+Master+Today%E2%80%99s+Changing+Market+With+8+Specific+Skills.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/How+to+Master+Today%E2%80%99s+Changing+Market+With+8+Specific+Skills+(1).mp4
 pullquote: Agents need to be the calm voice of reason in a transaction.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-skills-yt-marc-highfill-ss.jpg
-youtube_code: nSPmH9RP6sk
+youtube_code: 5a63RNoz-Bk
 ---
 {% include youtube.html %}
 
