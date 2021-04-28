@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Four tips for agents to help their buyers get their offers accepted.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Tips+To+Help+Your+Buyers+Get+Their+Offers+Accepted.mp4
 pullquote: Many agents are struggling with the same issue right now.
 enclosure_type: video/mp4
 enclosure_time:
