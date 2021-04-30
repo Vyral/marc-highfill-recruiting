@@ -25,7 +25,7 @@ We all know the market is crazy right now. I speak with agents every day who are
 
 **1\. Make sure you call the listing agent.** I know this might seem like a no-brainer but you'd be surprised how often it doesn't happen. As a listing agent, I don't always get a call from the buyer’s agent. Before an offer is submitted, call the agent and ask what specific terms that the sellers want. This can do wonders when you craft your offer to get accepted. It also helps to foster a relationship with the other agent. Let them know that you and your buyers are willing to work together in whatever it takes to get a deal done. It also gives you the opportunity to negotiate terms like rent-backs, response times, contingencies, or things that can be favorable to the sellers, thereby putting your buyer in a better position to win. It's not always about the sales price; better terms or contingencies can win out over a higher price.
 
-**2\. Offer a higher earnest money deposit or EMD.** The EMD shows sellers that your buyers have skin in the game and that they're serious. A higher EMD deposit means that the buyers are willing to put that money on the line in case something goes wrong with the contract. This shows the sellers that they're willing to financially commit to the deal up front.
+**2\. Offer a higher earnest money deposit or EMD.** The EMD shows sellers that your buyers have skin in the game and that they're serious. A higher EMD deposit means that the buyers are willing to put that money on the line in case something goes wrong with the contract. This shows the sellers that they're willing to financially commit to the deal upfront.
 
 {% include pullquote.html %}
 
