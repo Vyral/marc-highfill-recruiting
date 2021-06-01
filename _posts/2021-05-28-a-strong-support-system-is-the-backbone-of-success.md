@@ -33,4 +33,6 @@ Many companies offer basic training, where they basically firehose you with info
 
 Our team of brokers, coaches, and agents from every experience level work together as a family to overcome struggles in our business. No matter what you’re having trouble with—finding inventory for buyers, negotiating inspections, winning bids, handling multiple offers, etc.—**our unique coaching system provides a collaborative solution to help you.**
 
-The bottom line is that you don’t have to go at it alone. If you think your business could benefit from daily coaching and collaboration, contact us today for a free business strategy consultation. We’ll help you identify struggles and provide timely, real-life solutions to help you succeed. I hope to hear from you soon.P.S.: Remember, it’s not the market—it’s the marketing that makes all the difference.
+The bottom line is that you don’t have to go at it alone. If you think your business could benefit from daily coaching and collaboration, contact us today for a free business strategy consultation. We’ll help you identify struggles and provide timely, real-life solutions to help you succeed. I hope to hear from you soon.
+
+P.S. Remember, it’s not the market—it’s the marketing that makes all the difference.
