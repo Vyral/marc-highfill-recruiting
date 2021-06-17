@@ -7,7 +7,7 @@ tags:
   - Lead Generation
 excerpt: 'Here’s the story of what led agent Bryan Tubbs to Exit First Realty. '
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Why+Joining+Our+Firm+Was+This+Agent%E2%80%99s+Best+Decision.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Why+Joining+Our+Firm+Was+This+Agent%E2%80%99s+Best+Decision+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
