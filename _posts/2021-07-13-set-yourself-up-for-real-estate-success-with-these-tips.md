@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/set-success-yt-marc-highfill-ss.jpg
-youtube_code: 3MYgaqZzSrw
+youtube_code: jTYsAT9vs8U
 ---
 {% include youtube.html %}
 
