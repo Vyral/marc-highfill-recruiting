@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Learn about the systems we use to generate consistent business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Generate+More+Consistent+Business.mp4
 pullquote: >-
   If you don't have a system in place to constantly generate income, you'll end
   up struggling.
