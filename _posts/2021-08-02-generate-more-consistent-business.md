@@ -7,7 +7,7 @@ tags:
   - Lead Generation
 excerpt: Learn about the systems we use to generate consistent business.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Generate+More+Consistent+Business.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Generate+More+Consistent+Business+(1).mp4
 pullquote: >-
   If you don't have a system in place to constantly generate income, you'll end
   up struggling.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/paycheck-safety-net-yt-marc-highfill-ss.jpg
-youtube_code: YU7umn05Udc
+youtube_code: ce3cEBrv9pI
 ---
 {% include youtube.html %}
 
