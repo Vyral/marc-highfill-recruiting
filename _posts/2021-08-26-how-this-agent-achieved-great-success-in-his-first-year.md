@@ -16,7 +16,7 @@ youtube_code: qs4tgx6diXc
 ---
 {% include youtube.html %}
 
-<center>After stumbling upon our company, Tavian Anderson has found success</center>
+<p style="text-align:center;"><em>After stumbling upon our company, Tavian Anderson has found success</em></p>
 
 &nbsp;
 
