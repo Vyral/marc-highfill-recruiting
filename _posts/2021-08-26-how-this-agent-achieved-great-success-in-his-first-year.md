@@ -12,12 +12,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /tavian-yt-marc-highfill-ss.jpg
-youtube_code: qs4tgx6diXc
+youtube_code: g3X-ipcCt-8
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>After stumbling upon our company, Tavian Anderson has found success</em></p>
-
+*After stumbling upon our company, Tavian Anderson has found success*
 
 With 15 deals in just his first year with Exit First Realty, Tavian Anderson is truly a Realtor extraordinaire. Today I sat down with him to discuss his journey—where he came from, how he got into real estate, and how Exit First Realty has helped him along the way.
 
