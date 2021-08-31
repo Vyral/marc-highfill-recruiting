@@ -6,7 +6,7 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: After stumbling upon our company, Tavian Anderson has found success
-enclosure:https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/How+This+Agent+Achieved+Great+Success+in+His+First+Year.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
