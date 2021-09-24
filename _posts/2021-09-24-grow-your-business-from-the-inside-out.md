@@ -36,4 +36,4 @@ One way is to ask for referrals numerous times throughout the entire transaction
 
 As someone who has learned the hard way, trust me when I say your time is best spent squeezing business out of what you have rather than chasing the newest thing. You’ll see a higher return on investment and better growth in the long run.&nbsp;
 
-Call us today for a free business strategy session. Our coaches will work with your specific situation and put a plan into place that’ll grow your business from the inside out. Remember it’s not the market, it’s the marketing that makes the difference.
+Call us today for a free business strategy session. Our coaches will work with your specific situation and put a plan into place that’ll grow your business from the inside out. Remember, it’s not the market; it’s the marketing that makes the difference.
