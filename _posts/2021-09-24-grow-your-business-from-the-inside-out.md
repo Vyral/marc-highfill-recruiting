@@ -24,7 +24,7 @@ youtube_code: RPeERoDKWIk
 
 Are you growing your business from inside out or outside in? Are you relying too much on internet leads or other outside sources? If so, there is an easier, better way to grow your business by leveraging opportunities with your existing clients.
 
-My name is Marc Austin Highfill with Exit First Realty. Too often I speak with agents who chase lots of outside lead sources: internet leads, paid referral companies, or the next best lead source. Some of these are good to have as an option, but **many agents are simply missing opportunities to leverage business from what they already have.** Some of the easiest income comes from family, friends, and current clients. You should focus your energy on getting everything you can from those sources.
+Too often I speak with agents who chase lots of outside lead sources: internet leads, paid referral companies, or the next best lead source. Some of these are good to have as an option, but **many agents are simply missing opportunities to leverage business from what they already have.** Some of the easiest income comes from family, friends, and current clients. You should focus your energy on getting everything you can from those sources.
 
 One way is to ask for referrals numerous times throughout the entire transaction. Ask the question, “Who else do you know that needs to buy or sell a home?”&nbsp;
 
