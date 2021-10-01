@@ -7,8 +7,7 @@ tags:
   - Lead Conversion
 excerpt: Here’s how you can grow your business without outside lead generation.
 enclosure: >-
-  s3://vyralmarketing/Marc Highfill/2021/Grow Your Business From the Inside
-  Out.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Grow+Your+Business+From+the+Inside+Out.mp4
 pullquote: >-
   Your time is best spent squeezing business out of what you have rather than
   chasing the newest thing.
