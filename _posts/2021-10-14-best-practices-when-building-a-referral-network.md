@@ -22,6 +22,8 @@ Several agents have reached out asking me to expand on an idea I shared recently
 
 **One of our coaching strategies is to build an entire network of business owners that aren’t necessarily in the real estate world but can exchange referrals and support each other's businesses.** Referrals don’t require a lot of money, and the return is often double or triple the effort you invest. Think of your connectors like bird dogs that are constantly on the lookout for new clients to send your way.
 
+{% include pullquote.html %}
+
 Who should be in your referral network? Obviously, there are home contractors like landscapers, electricians, roofers, and plumbers. They send clients to you and you send clients to them. I also encourage you to think outside the box. Restaurant owners, local shops, insurance brokers, teachers, firefighters, and even nurses. Think of anyone who you know that is a connector of people, working in a field where they come in contact with lots of people. These people tend to make friends easily and are great referral partners.
 
 **The goal is to be top of mind when someone is thinking of selling a home.** That’s why you should meet with your connectors on a regular basis. Take them to lunch, have a Zoom meeting, and keep in contact so they think of you when they’re talking about real estate. It’s also important to ask what you can do for their business and how to refer them. Then teach them how to refer clients to you.&nbsp;
