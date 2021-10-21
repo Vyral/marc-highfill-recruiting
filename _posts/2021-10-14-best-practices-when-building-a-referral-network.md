@@ -24,9 +24,9 @@ Several agents have reached out asking me to expand on an idea I shared recently
 
 {% include pullquote.html %}
 
-Who should be in your referral network? Obviously, there are home contractors like landscapers, electricians, roofers, and plumbers. They send clients to you and you send clients to them. I also encourage you to think outside the box. Restaurant owners, local shops, insurance brokers, teachers, firefighters, and even nurses. Think of anyone who you know that is a connector of people, working in a field where they come in contact with lots of people. These people tend to make friends easily and are great referral partners.
+Who should be in your referral network? Obviously, there are home contractors like landscapers, electricians, roofers, and plumbers. They send clients to you, and you send clients to them. I also encourage you to think outside the box. Reach out to restaurant owners, local shops, insurance brokers, teachers, firefighters, and even nurses. Think of anyone you know working in a field where they come in contact with lots of people. These people tend to make friends easily and are great referral partners.
 
-**The goal is to be top of mind when someone is thinking of selling a home.** That’s why you should meet with your connectors on a regular basis. Take them to lunch, have a Zoom meeting, and keep in contact so they think of you when they’re talking about real estate. It’s also important to ask what you can do for their business and how to refer them. Then teach them how to refer clients to you.&nbsp;
+**The goal is to be top of mind when someone is thinking of selling a home.** That’s why you should meet with your connectors on a regular basis. Take them to lunch, have a Zoom meeting, and keep in contact so that they think of you when they’re talking about real estate. It’s also important to ask what you can do for their business and how to refer them. Then teach them how to refer clients to you.&nbsp;
 
 Most importantly, **make sure you reward your connectors for referrals** they send your way even if it doesn’t end in a transaction. Give them a small token of appreciation every time they give your name out so that they will keep sending you potential business.
 
