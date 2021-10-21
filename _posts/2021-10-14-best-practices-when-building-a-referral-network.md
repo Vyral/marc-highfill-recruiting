@@ -11,7 +11,7 @@ pullquote: Teach them how to refer clients to you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-ideas-yt-marc-highfill-ss.jpg
+youtube_alternate_image: /uploads/build-a-ref-net-2-yt-marc-highfill-ss.jpg
 youtube_code: a85ZpejC8Oc
 ---
 {% include youtube.html %}
