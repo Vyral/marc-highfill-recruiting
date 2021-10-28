@@ -6,7 +6,8 @@ tags:
     - Reviews and Referrals
     - Lead Generation
 excerpt: Here are my thoughts on the right way to build a strong referral network.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Best+Practices+When+Building+a+Referral+Network.mp4
 pullquote: Teach them how to refer clients to you.
 enclosure_type: video/mp4
 enclosure_time:
