@@ -18,7 +18,7 @@ youtube_code: OSwwTSZhm7Y
 
 {% include excerpt.html %}
 
-Today I’m here with one of our great real estate agents, Jeanne Brooksbank, to chat about her journey, why she initially chose Exit First Realty, why she eventually came back to Exit First Realty, and where she sees our company heading. Before working in real estate, Jeanne graduated from college and immediately went into the aviation marketing tradeshow field. Then she had kids and took a 10-year hiatus from working. That got her thinking about what she could do as a career that would allow her the flexibility to be with her kids. She thought real estate could be a great opportunity, and the rest is history.&nbsp;
+Today I’m here with one of our great real estate agents, Jeanne Brooksbank, to chat about her journey, why she initially chose Exit First Realty, why she eventually came back to Exit First Realty, and where she sees our company heading. Before working in real estate, Jeanne graduated from college and immediately went into the aviation marketing field. Then she had kids and took a 10-year hiatus from working. That got her thinking about what she could do as a career that would allow her the flexibility to be with her kids. She thought real estate could be a great opportunity, and the rest is history.&nbsp;
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
@@ -42,6 +42,6 @@ Today I’m here with one of our great real estate agents, Jeanne Brooksbank, to
 
 12:15—Why Jeanne says agents should choose Exit First Realty
 
-14:10—Wrapping up today’s topic
+14:10—Wrapping up
 
 If you have questions or want to speak to Jeanne for any reason, call her at (804) 317-6024 or email her at [jeanneb@marcushomes.net](mailto:jeanneb@marcushomes.net). She would love to help you.
