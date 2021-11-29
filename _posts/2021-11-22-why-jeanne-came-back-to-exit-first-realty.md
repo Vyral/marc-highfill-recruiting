@@ -22,26 +22,26 @@ Today I’m here with one of our great real estate agents, Jeanne Brooksbank, to
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
-0:05—Introduction to today’s topic
+0:07—Introduction to today’s topic
 
-0:35—What Jeanne did before and what made her want to be in real estate
+0:33—What Jeanne did before and what made her want to be in real estate
 
 1:30—Jeanne didn’t begin as a real estate agent; she started in inside sales
 
 2:15—What made her decide to become an agent
 
-3:15—The biggest hurdle for Jeanne about moving from an ISA to an agent role
+3:12—The biggest hurdle for Jeanne about moving from an ISA to an agent role
 
-4:25—Why she stayed with Exit First Realty when she got her license
+3:45—Why she stayed with Exit First Realty when she got her license
 
-6:30—Why Jeanne left Exit First Realty and then came back
+5:50—Why Jeanne left Exit First Realty and then came back
 
-8:30—The things about Exit First Realty that truly helped her become successful
+7:42—The things about Exit First Realty that truly helped her become successful
 
-11:15—Jeanne’s plans for the next couple of years
+10:30—Jeanne’s plans for the next couple of years
 
-12:15—Why Jeanne says agents should choose Exit First Realty
+11:35—Why Jeanne says agents should choose Exit First Realty
 
-14:10—Wrapping up
+12:56—Wrapping up
 
 If you have questions or want to speak to Jeanne for any reason, call her at (804) 317-6024 or email her at [jeanneb@marcushomes.net](mailto:jeanneb@marcushomes.net). She would love to help you.
