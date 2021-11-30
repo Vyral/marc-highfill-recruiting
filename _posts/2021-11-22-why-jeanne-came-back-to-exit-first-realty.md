@@ -6,7 +6,8 @@ tags:
   - Agent Interview
   - Real Estate
 excerpt: Here’s why agent Jeanne Brooksbank left but came back to Exit First Realty.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Why+Jeanne+Came+Back+to+Exit+First+Realty.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
