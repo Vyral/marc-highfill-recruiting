@@ -25,7 +25,7 @@ I’ve spoken with many agents during my coaching sessions who wait until the ne
 
 {% include pullquote.html %}
 
-Think about the end of this year and the beginning of next year as just another quarter.&nbsp; As you may have seen in one of my previous videos, it’s critical to set quarterly goals in order to maintain your momentum throughout the year.
+Think about the end of this year and the beginning of next year as just another quarter.&nbsp; **[As you may have seen in one of my previous videos](https://richmondrealestatejobs.com/set-yourself-up-for-real-estate-success-with-these-tips.html){: target="_blank" rel="noopener"},** it’s critical to set quarterly goals in order to maintain your momentum throughout the year.
 
 If you want to be successful in 2022, setting and implementing a plan for the first quarter NOW is imperative. Your success in the first quarter will help determine your success for the rest of the year.
 
