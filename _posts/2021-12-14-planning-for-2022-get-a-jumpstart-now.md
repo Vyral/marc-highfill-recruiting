@@ -5,7 +5,8 @@ date: 2021-12-14 10:00:00
 tags:
   - Real Estate
 excerpt: Here’s how to get a head start on your business as we roll into 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2021/Planning+for+2022_++Get+a+Jumpstart+Now.mp4
 pullquote: >-
   Your success in the first quarter will help determine your success for the
   rest of the year.
