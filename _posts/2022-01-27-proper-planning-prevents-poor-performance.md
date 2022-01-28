@@ -29,4 +29,4 @@ No matter what kind of calendar you use—whether it’s a high-tech internet ca
 
 **Taking time every evening to plan your next day in advance will help you stay on track for your goals, and it will alleviate stress.** You won’t have to worry about what you’re going to do to get business every morning because you’ve already put a plan in place the night before.
 
-If you’re interested in learning more about how to plan your day or you have any questions, contact us today for a free business planning call. Just click on the “Business Strategy Call” button on our website. Our coaches will work to create a system of planning that works best for your business and your goals.
+If you’re interested in learning more about how to plan your day or you have any questions, contact us today for a free business planning call. Just click on the [“Business Strategy Call”](https://richmondrealestatejobs.com/strategy-call/) button on our website. Our coaches will work to create a system of planning that works best for your business and your goals.
