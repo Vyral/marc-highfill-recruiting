@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/social-media-tips-yt-marc-highfill-ss.jpg
-youtube_code: XeKe3eiXn6U
+youtube_code: juLNsBDLaW0
 ---
 {% include youtube.html %}
 
