@@ -3,11 +3,8 @@ layout: post
 title: Master Your Social Media Marketing
 date: 2022-02-08 15:00:00
 tags:
-  - Transaction Management
-  - Listing Presentation
   - Lead Conversion
   - Lead Generation
-  - Buyer Prospects
   - Reviews and Referrals
 excerpt: Discussing five ways you can improve your social media marketing.
 enclosure:
