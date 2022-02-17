@@ -7,7 +7,8 @@ tags:
   - Lead Generation
   - Reviews and Referrals
 excerpt: Discussing five ways you can improve your social media marketing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/Recruiting/Master+Your+Social+Media+Marketing+(1).mp4
 pullquote: Your audience will relate to you as a person.
 enclosure_type: video/mp4
 enclosure_time:
