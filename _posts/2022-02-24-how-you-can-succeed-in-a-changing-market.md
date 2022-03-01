@@ -27,9 +27,9 @@ You need coaches who have experience with real-life scenarios and market changes
 
 {% include pullquote.html %}
 
-The market is changing rapidly, and you need to keep up. Unless you’ve been in this business for more than 10 years, you probably haven’t seen changes like we’re currently experiencing. **You need to surround yourself with agents who can help you tackle everyday challenges** like getting creative with your offers, finding inventory in a seller’s market, winning listing with difficult sellers, managing rent-backs, handling appraisal waivers, and dealing with as-is inspections.
+The market is changing rapidly, and you need to keep up. Unless you’ve been in this business for more than 10 years, you probably haven’t seen changes like we’re currently experiencing. **You need to surround yourself with agents who can help you tackle everyday challenges** like getting creative with your offers, finding inventory in a seller’s market, winning listings with difficult sellers, managing rent-backs, handling appraisal waivers, and dealing with as-is inspections.
 
-You can’t invent the scenarios we encounter as agents, so you need to find someone who is active in the business and succeeding despite the challenging market. **Our coaches here at Exit First Realty offer free daily coaching to anyone interested.** You don’t even have to join us\!
+You can’t invent the scenarios we encounter as agents, so you need to find someone who is active in the business and succeeding despite the challenging market. **Our coaches here at Exit First Realty offer free daily coaching to anyone interested.** You don’t even have to join our team\!
 
 You don’t have to struggle alone; there are plenty of companies and agents who are willing to help. If you want to take advantage of our free coaching sessions, call us today. We’ll set up a free, no-obligation business strategy coaching session. We just want to help agents be successful so that our industry can grow and thrive. Remember, it’s not the market; it’s the marketing that makes the difference.
 
