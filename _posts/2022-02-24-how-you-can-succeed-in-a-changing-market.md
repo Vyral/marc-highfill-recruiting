@@ -7,7 +7,8 @@ tags:
   - Lead Generation
   - Reviews and Referrals
 excerpt: In a challenging market like this one, you need daily coaching to succeed.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/Recruiting/How+You+Can+Succeed+in+a+Changing+Market.mp4
 pullquote: You don’t have to struggle alone in this competitive market.
 enclosure_type: video/mp4
 enclosure_time:
