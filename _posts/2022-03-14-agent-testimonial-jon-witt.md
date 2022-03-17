@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jon-witt-yt-marc-highfill-ss.jpg
-youtube_code: wZlbwbIxZfY
+youtube_code: b383t47goOo
 ---
 {% include youtube.html %}
 
