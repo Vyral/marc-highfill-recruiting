@@ -5,7 +5,8 @@ date: 2022-03-14 15:00:00
 tags:
   - Reviews and Referrals
 excerpt: Here’s our recent Q&A with Jon Witt, another important member of our team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/Recruiting/Agent+Testimonial_+Jon+Witt.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
