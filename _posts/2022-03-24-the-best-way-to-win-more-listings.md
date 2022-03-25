@@ -5,7 +5,8 @@ date: 2022-03-24 00:00:00
 tags:
   - Lead Generation
 excerpt: 'Here’s how you can win listings in a low-inventory real estate market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/Recruiting/The+Best+Way+To+Win+More+Listings.mp4
 pullquote: >-
   If you use the same sales pitch at every listing appointment, you’ll just
   sound like every other agent. 
