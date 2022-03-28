@@ -26,8 +26,8 @@ Real estate is a tough industry. Everything runs on competition, and it’s easy
 
 {% include pullquote.html %}
 
-The key to winning consistent listings is to give your sellers exit strategies. **No two sellers are the same.** For example, some sellers want the most money possible no matter what. Others want good terms, extra moving time, or a quick sale. Because every seller is unique, you have to provide different solutions for their potential problems.&nbsp;
+The key to winning consistent listings is to give your sellers exit strategies. **No two sellers are the same.&nbsp;**Some sellers want the most money possible no matter what. Others want good terms, extra moving time, or a quick sale. Because every seller is unique, you have to provide different solutions for their potential problems.&nbsp;
 
-If you use the same sales pitch at every listing appointment, you’ll just sound like every other agent out there. **You have to provide several exit strategies for your potential sellers.** This strategy has allowed my team to stand out for years, but it has become even more valuable during this difficult market.&nbsp;
+If you use the same sales pitch at every listing appointment, you’ll just sound like every other agent out there. **You have to provide several exit strategies for your potential sellers.** This approach has allowed my team to stand out for years, but it has become even more valuable during this difficult market.&nbsp;
 
-If you would like to learn more about how you can provide exit strategies for your sellers, please call or email my team. My coaches will learn what makes you unique and help you craft a sales pitch based on your strengths. I look forward to hearing from you
+If you would like to learn more about how you can provide exit strategies for your sellers, please call or email my team. My coaches will learn what makes you unique and help you craft a sales pitch based on your strengths. We look forward to hearing from you.
