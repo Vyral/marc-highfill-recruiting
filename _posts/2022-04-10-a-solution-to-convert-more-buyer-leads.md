@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Solution to Convert More Buyer Leads
+title: A Solution To Convert More Buyer Leads
 date: 2022-04-10 00:00:00
 tags:
   - Lead Generation
