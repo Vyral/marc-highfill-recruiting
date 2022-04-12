@@ -1,16 +1,16 @@
 ---
 layout: post
-title: A Solution To Convert More Buyer Leads
+title: A Solution to Getting Buyers' Offers Accepted
 date: 2022-04-10 00:00:00
 tags:
-  - Lead Generation
+  - Buyer Prospects
 excerpt: All buyer’s agents should be doing this in our competitive market.
 enclosure:
 pullquote: You're the expert, and you have to prove that to your clients.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/win-more-buyers-yt-marc-highfill-ss.jpg
+youtube_alternate_image: /uploads/win-more-buyers-yt-marc-highfill-ss-1.jpg
 youtube_code: 5z5b36ee008
 ---
 {% include youtube.html %}
