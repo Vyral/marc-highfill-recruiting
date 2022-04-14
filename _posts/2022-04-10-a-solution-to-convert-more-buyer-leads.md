@@ -5,7 +5,8 @@ date: 2022-04-10 00:00:00
 tags:
   - Buyer Prospects
 excerpt: All buyer’s agents should be doing this in our competitive market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/Recruiting/A+Solution+to+Getting+Buyers'+Offers+Accepted.mp4
 pullquote: You're the expert, and you have to prove that to your clients.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ I speak with agents every day who have the same issues: They’re struggling to 
 
 {% include pullquote.html %}
 
-With this initial meeting, you’re able to solely focus on your buyers and their specific needs. Then you can take the time to educate them on the process, the market, and the strategies they need to win. It doesn’t matter if your clients have bought a home in the past or not; **by taking the time to understand their situation and explaining what you’ll do every day to help them buy a house, you’ll build trust.**&nbsp;
+With this initial meeting, you’re able to solely focus on your buyers and their specific needs. Then you can take the time to educate them on the process, the market, and the strategies they need to win. It doesn’t matter if your clients have bought a home in the past or not; **by taking the time to understand their situation and explaining what you’ll do every day to help them buy a house, you’ll build trust.**
 
 Once that trust is established, clients are more likely to take your advice when making offers. Provide data, facts, and success stories from past clients as well. You’re the expert, and you have to prove that to your clients to separate yourself from the competition. **The only way to get clients prepared to make the necessary quick decisions in the market is to take time to get to know their needs and demonstrate your value.**
 
