@@ -17,7 +17,7 @@ youtube_code: 6x2k5ot7_KA
 
 {% include excerpt.html %}
 
-Today we’re joined by Tavian Anderson, an excellent real estate agent with Exit First Realty. He joined us a year and a half ago, and we wanted to check in with him and see what he’s learned, how he’s been dealing with this wild real estate market, how he’s doing with his goals, and more. In April, he was one of our top producers, so we’re excited to speak to him today.
+Today we’re joined by Tavian Anderson, an excellent real estate agent with EXIT First Realty. He joined us a year and a half ago, and we wanted to check in with him and see what he’s learned, how he’s been dealing with this wild real estate market, how he’s doing with his goals, and more. In April, he was one of our top producers, so we’re excited to speak to him today.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
