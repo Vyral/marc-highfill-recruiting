@@ -4,7 +4,7 @@ title: How Tavian Anderson Became a Top Producer
 date: 2022-05-22 00:00:00
 tags:
   - Reviews and Referrals
-excerpt: How Exist First Realty agent Tavian Andreson found success in real estate.
+excerpt: How EXIT First Realty agent Tavian Anderson found success in real estate.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
