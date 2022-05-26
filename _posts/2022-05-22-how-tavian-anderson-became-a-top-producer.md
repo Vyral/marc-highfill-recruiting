@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/tavia-testimonial-yt-marc-highfill-ss.jpg
-youtube_code: 6x2k5ot7_KA
+youtube_code: 2TdeIIujAiE
 ---
 {% include youtube.html %}
 
