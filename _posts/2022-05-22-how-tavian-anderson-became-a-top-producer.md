@@ -5,7 +5,8 @@ date: 2022-05-22 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: How EXIT First Realty agent Tavian Anderson found success in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Marc+Highfill/2022/How+Tavian+Anderson+Became+a+Top+Producer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
