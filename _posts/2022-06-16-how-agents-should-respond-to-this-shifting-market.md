@@ -22,7 +22,7 @@ youtube_code: s0tmPdYRwl8
 
 A market shift is on the horizon. Though economists are anticipating a recession, remember that a recession does not equal a housing crisis. What does this mean for you as a real estate agent? As experts in the real estate field, our No. 1 responsibility is to inform and educate our clients when a market shift occurs. We have to be the voice of reason providing facts and data to our clients. Let's look at the data to put things into perspective.
 
-**Home values continued to appreciate during four of the last six recessions in the U.S.** Home values declined in the 1990s by less than 2%, and then again in 2008. Anyone who remembers the 2008 crash may think we're headed that way again. However, it's up to us to educate ourselves and our clients in order to ease those fears and help them understand what is actually happening and how it can affect their buying and selling decisions.
+**Home values continued to appreciate during four of the last six recessions in the U.S.** Home values declined in the 1990s by less than 2%, and then again in 2008. Anyone who remembers the 2008 crash may think we're headed that way again. However, it's up to us to educate ourselves and our clients to ease those fears and help them understand what is actually happening and how it can affect their buying and selling decisions.
 
 {% include pullquote.html %}
 
@@ -30,4 +30,4 @@ A market shift is on the horizon. Though economists are anticipating a recession
 
 Make sure your clients know you are the expert when it comes to a shifting market. Share facts on social media, through videos, and in your newsletters. Connect with your past clients and your sphere of influence and ask them to share your content to reach more people. Don't be afraid to have conversations about the market. Your friends and family will trust you as the expert if you are basing your conversations on facts.
 
-If you'd like to have a more in-depth conversation about changing markets and what data you should be sharing with your clients, reach out to us by phone or email. Our coaches will share information to help you be the industry expert and keep your clients informed. And remember: It's Not the Market...it's the Marketing That Makes the Difference\!
+If you'd like to have a more in-depth conversation about changing markets and what data you should be sharing with your clients, reach out to us by phone or email. Our coaches will share information to help you be the industry expert and keep your clients informed. And remember: It's Not the Market…it's the Marketing That Makes the Difference\!
