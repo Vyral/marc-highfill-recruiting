@@ -4,7 +4,7 @@ title: What You Need To Do in a Shifting Market
 date: 2022-07-05 05:00:00
 tags:
   - Transaction Management
-excerpt: A few ways you can adapt to our rapidly changing real estate market.
+excerpt: A few ways to help you adapt to our rapidly changing real estate market.
 enclosure:
 pullquote: >-
   I’ve seen recessions, booms, and everything between, and my team has grown
