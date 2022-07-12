@@ -9,7 +9,7 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: 'https://marcshomes.eventbrite.com/'
+    url: /events/
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter

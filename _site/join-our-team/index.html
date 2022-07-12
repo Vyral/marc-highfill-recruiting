@@ -41,7 +41,7 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="Marc Austin Highfill, a top Real Estate Agent in Richmond, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2020">
+  <meta name="copyright" content="Copyright © 2022">
   <meta name="author" content="Marc Austin Highfill">
   <meta name="designer" content="Brent Stradling, Emma Drews">
   <meta name="email" content="marc@marcshomes.net">
@@ -57,6 +57,37 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#221e1f">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -80,7 +111,7 @@
 				
       		<li><a href="/join-our-team/">Join Our Team</a></li>
     		
-      		<li><a href="https://marcshomes.eventbrite.com/">Events</a></li>
+      		<li><a href="/events/">Events</a></li>
     		
       		<li><a href="/strategy-call/">Free Strategy Call</a></li>
     		
@@ -172,10 +203,10 @@ EXIT First Realty</p>
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 
-<form method="post" class="home-value cta-forms" action="https://formspree.io/careers@marcshomes.net" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="/thankyou" id="join-our-team-form">
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
 						<!--base32-c9gq6t9k68pkcd3jcwpp4rbkcmtk4-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
-						<!--base32-c9gq6t9k68pk8cbme5gq4uv4cguqachj70r2urk1edjk6cg-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
+						<!--base32-c9gq6t9k68pk8cbme5gq4uv4cguqachj70r2urk1edjk6cg-base32--><button class="g-recaptcha" data-sitekey="6Ldr6nkaAAAAAHvDlncVyWv3ATORf5FxaoUar04B" data-callback="onJoinOurTeamSubmit" data-badge="bottomleft">Submit</button></fieldset>
 					<!--base32-c9gq6t9k68pk8c9he1t7cxkecdkpedhpe9h6at3me5r7ee1kddhpwx9q71up4tb3f1u6mc3mdcwp6vkg6rw3gc1dc9gq6t9k68-base32-->
 					<div class="hidden"><input type="hidden" value="careers@marcshomes.net" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
@@ -267,7 +298,7 @@ function topFunction() {
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2020 Marc Austin Properties</p>
+				<p>&copy;2022 Marc Austin Properties</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">

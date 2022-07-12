@@ -6,7 +6,6 @@ tags:
   - Market Update
   - Agent FAQ's
 excerpt: It’s up to real estate agents to be the calm in this stormy market.
-enclosure:
 pullquote: >-
   Make sure your clients know you are the expert when it comes to a shifting
   market.
