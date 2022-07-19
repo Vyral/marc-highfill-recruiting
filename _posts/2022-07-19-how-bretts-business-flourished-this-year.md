@@ -3,6 +3,7 @@ layout: post
 title: How Brett’s Business Flourished This Year
 date: 2022-07-19 00:00:00
 tags:
+  - Reviews and Referrals
 excerpt: How newer agent Brett Dieringer has adapted to our shifting market
 enclosure:
 pullquote:
@@ -25,7 +26,7 @@ We’re sitting down with Brett Dieringer, an outstanding Realtor on our team, o
 
 1:00 — How many deals he did do this year
 
-2:02 — How things changed for him in the last year&nbsp;
+2:02 — How things changed for him in the last year
 
 5:40 — How he levered his experience to educate clients
 
@@ -39,8 +40,8 @@ We’re sitting down with Brett Dieringer, an outstanding Realtor on our team, o
 
 32:04 — The more successful you are, the busier you get
 
-34:26 — One piece of advice for agents who are struggling&nbsp;
+34:26 — One piece of advice for agents who are struggling
 
 37:32 — Wrapping up
 
-If you have any questions about what you can do in this market or how Exit can help you, feel free to call or email us. We’d love to help, and remember: It's not the market, it's the marketing that makes the difference\!\!<br>&nbsp;
+If you have any questions about what you can do in this market or how Exit can help you, feel free to call or email us. We’d love to help, and remember: It's not the market, it's the marketing that makes the difference\!\!<br>
