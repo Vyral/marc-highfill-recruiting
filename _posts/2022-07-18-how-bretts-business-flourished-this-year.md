@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Brett’s Business Flourished This Year
-date: 2022-07-19 00:00:00
+date: 2022-07-18 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: How newer agent Brett Dieringer has adapted to our shifting market
