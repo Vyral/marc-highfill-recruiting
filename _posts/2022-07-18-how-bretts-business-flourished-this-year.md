@@ -24,7 +24,7 @@ We’re sitting down with Brett Dieringer, an outstanding Realtor on our team, o
 
 0:00 — Introducing today’s topic
 
-1:00 — How many deals he did do this year
+1:00 — How many deals he did this year
 
 2:02 — How things changed for him in the last year
 
@@ -44,4 +44,4 @@ We’re sitting down with Brett Dieringer, an outstanding Realtor on our team, o
 
 37:32 — Wrapping up
 
-If you have any questions about what you can do in this market or how Exit can help you, feel free to call or email us. We’d love to help, and remember: It's not the market, it's the marketing that makes the difference\!\!<br>
+If you have any questions about what you can do in this market or how Exit can help you, feel free to call or email us. We’d love to help, and remember: It's not the market, it's the marketing that makes the difference\!\!
