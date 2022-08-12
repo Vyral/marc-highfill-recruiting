@@ -4,7 +4,7 @@ title: An Agent’s Long-Term Wealth Building Strategy
 date: 2022-08-11 00:00:00
 tags:
   - Transaction Management
-excerpt: How agents can generate a passive income and generate wealth.
+excerpt: How agents can generate a passive income and build future wealth.
 enclosure:
 pullquote: >-
   Investing in rental properties is one of the best ways to earn a passive
@@ -30,4 +30,4 @@ First, you need to create a network of people, such as lenders and attorneys, wh
 
 The goal is to have several paid-off rental properties that will become your source of passive income. **As they appreciate in value, you can enjoy tax deductions and a positive cash flow.** Additionally, rental rates will continue to increase even if home appreciation slows. Time makes you look like a genius. In 20 years or so, your real estate investment is guaranteed to be worth more.&nbsp;
 
-If you want a more in-depth discussion about rental real estate investments, call or email me. Let's discuss how I can help set you up for long-term financial success, and always remember: it's not the market... it's the marketing that makes the difference\!
+If you want a more in-depth discussion about rental real estate investments, call or email me. Let's discuss how I can help set you up for long-term financial success, and always remember: it's not the market… it's the marketing that makes the difference\!
