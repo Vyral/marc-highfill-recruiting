@@ -32,4 +32,4 @@ This lets you remind the client that you were their agent, ask for their forgive
 
 However, **the important thing is that you try to bring back the relationship**. The goal in the initial conversation is to reconnect, not to sell. Keep yourself top of mind and regularly stay in touch. If you do this, you’ll get a lot more repeat and referral business.
 
-If you have any questions about how to handle this reconnect conversation or stay in touch with your clients, call or email us today. We can provide proven strategies for maintaining your database and improving your referral business. Remember, it's not the market… it's the marketing that makes the difference\!
+If you have any questions about how to handle this reconnect conversation or stay in touch with your clients, call or email us today. We can provide certified strategies for maintaining your database and improving your referral business. Remember, it's not the market… it's the marketing that makes the difference\!
