@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 5 Things You Should Have In Your Marketing Plan
+title: 7 Things You Should Have In Your Marketing Plan
 date: 2022-09-13 00:00:00
 tags:
   - Lead Generation
-excerpt: Here are five things that you should include in your marketing plan.
+excerpt: Here are seven things that you should include in your marketing plan.
 enclosure:
-pullquote:
+pullquote: A good annual marketing plan keeps you top of mind.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,9 +20,9 @@ hidden: false
 
 Most top producing agents have a secret weapon—an annual marketing plan. This is a predetermined schedule of marketing actions set on a calendar in advance to stay top of mind with your database. However, before you implement a marketing plan, you need to have a good database list.
 
-Take some time to make a ranked list of referral sources. This can be your past clients, friends, family lenders, contractors, and basically anyone who has the potential to give you referrals or has referred business to you in the past. Group your list into two to three categories with people who are most likely to refer your business at the top.
+Take some time to make a ranked list of referral sources. This can be your past clients, friends, family lenders, contractors, and basically anyone who has the potential to give you referrals or has referred business to you in the past. Group your list into two or three categories with people who are most likely to refer your business at the top.
 
-Remember that a good list with average marketing will outperform a bad list with good marketing. Take some time during the fourth quarter to create your annual marketing plan for the following year, then everything should happen like clockwork. There's no thinking, stressing about how you'll stay in touch, and missed opportunities for referrals—just consistent marketing that creates constant and consistent results.
+Remember that a good list with average marketing will outperform a bad list with good marketing. Take some time during the fourth quarter to create your annual marketing plan for the following year, and then everything should happen like clockwork. There's no thinking, stressing about how you'll stay in touch, and missed opportunities for referrals—just consistent marketing that creates constant and consistent results.
 
 What does a good marketing plan look like? There are seven things that the best annual marketing plans have in common:
 
@@ -30,9 +30,11 @@ What does a good marketing plan look like? There are seven things that the best 
 
 **2\. Frequency of number of contacts.** The number of touches for each contact should increase as the likelihood of referrals increases. A higher chance of referral means more touch points. You should reach out to your database a minimum of once a month.
 
-**3\. Mixed mediums.** To reduce the chances of your contacts getting bored with your marketing and ask you for fewer touch points, mix up how you reach out. Use direct mail, email, texts, phone calls, social media, and in-person touch points so your database stays engaged.&nbsp;
+{% include pullquote.html %}
 
-**4\. Marketing Message.** Messages should be fun, informative, desired and appreciated.&nbsp;
+**3\. Mixed mediums.** To reduce the chances of your contacts getting bored with your marketing and getting you fewer touch points, mix up how you reach out. Use direct mail, email, texts, phone calls, social media, and in-person touch points so your database stays engaged.&nbsp;
+
+**4\. Marketing message.** Messages should be fun, informative, desired and appreciated.&nbsp;
 
 **5\. A call to action.** Each marketing piece should have a clear call to action. This must be included so people have a good reason to reach out and ask for real estate help.
 
