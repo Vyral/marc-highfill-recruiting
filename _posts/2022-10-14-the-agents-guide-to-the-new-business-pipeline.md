@@ -18,9 +18,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-I speak with agents every day who are having a tough time filling their pipeline with new clients in today’s shifting market. The key is to get back to the basics. Here are seven lead-generation methods that agents should be using to keep their business flowing:&nbsp;
+I speak with agents every day who are having a tough time filling their pipeline with new clients in today’s shifting market. The key is to get back to the basics. Here are seven lead-generation methods that agents should use to keep their business flowing:&nbsp;
 
-**1\. Farming.** One of the best long-term lead flow sources is the neighborhood farm. Pick a neighborhood that has decent turnover and a good price point, and one that you’re familiar with. Make yourself the real estate expert for that area so that people who want to sell or buy call you first.&nbsp;
+**1\. Farming.** One of the best long-term lead flow sources is the neighborhood farm. Pick a familiar neighborhood with decent turnover and a good price point. Make yourself the real estate expert for that area so that people who want to sell or buy call you first.&nbsp;
 
 **2\. Online leads.** The fact is that the majority of buyers and sellers start online. Some of your business has to come from online sources. Do your research to find which works best for you because online sources can help you fill your pipeline with long-term buyers, ensuring future business.&nbsp;
 
@@ -36,4 +36,4 @@ I speak with agents every day who are having a tough time filling their pipeline
 
 **7\. Agent referrals.** Connect with agents in other areas that are in feeder markets for you, which are areas where prospective buyers are looking to relocate from or move to your community. There are agent referral groups on social media and online, and you can connect with many different agents when you attend conferences and training sessions.
 
-These are just some of the lead-generation ideas that agents can use in a shifting market. If you’d like to discuss how to implement action plans for any of these sources, or how to create a constantly filled pipeline for future business, call or email my team and I today. Our coaches will work with you to create a strategy and keep you moving forward. **Remember: It's Not the Market...it's the Marketing That Makes the Difference\!\!**
+These are just some of the lead-generation ideas that agents can use in a shifting market. If you’d like to discuss how to implement action plans for any of these sources, or how to create a constantly filled pipeline for future business, call or email my team and I today. Our coaches will work with you to create a strategy and keep you moving forward. **Remember: It's Not the Market…it's the Marketing That Makes the Difference\!**
