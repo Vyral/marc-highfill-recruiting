@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What To Do When Buyers Wait for Rates To Drop
+title: Overcoming the "Waiting to Buy" Objection
 date: 2022-10-31 00:00:00
 tags:
   - Buyer Prospects
