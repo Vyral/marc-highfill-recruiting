@@ -26,6 +26,6 @@ How can you best handle buyer clients who are waiting for interest rates to drop
 
 {% include pullquote.html %}
 
-**3\. Provide a solution to get buyers to act now.** Instead of waiting for a rate drop that may not happen for years, consider this: buy now before rates get any higher. Sellers now are motivated and are starting to negotiate again. Some are even taking offers below listing price and paying for buyers' closing costs. All of this makes it easier for buyers to get into a home today.
+**3\. Provide a solution to get buyers to act now.** Instead of waiting for a rate drop that may not happen for years, consider this: buy now before rates get any higher. Sellers are now motivated and are starting to negotiate again. Some are even taking offers below listing price and paying for buyers' closing costs. All of this makes it easier for buyers to get into a home today.
 
 If rates happen to fall in a few years, buyers can refinance down to a lower rate and then lower the monthly payment at that time. Are you ready to help your buyers take advantage of the current market opportunities? If you'd like more information about how to coach your buyers during this market change or want data to provide to get buyers to make a move now, contact us today. Our coaches will work with you to put a defined script in place so you can be the market expert—and remember, it's not the market, it's the marketing that makes the difference.
