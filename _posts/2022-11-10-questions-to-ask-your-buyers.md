@@ -18,9 +18,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-During recent coaching sessions, several agents have asked me, “What scripts should I be using in this market?” My answer is always: What questions should you be asking buyers in this market? Overcoming objections is just about regaining control of the conversation. The best way to do that is by asking questions. **So today, I want to bring you a three-question strategy you should be using to help drive conversations about the current market without coming off as very salesy.**
+During recent coaching sessions, several agents have asked me, “What scripts should I be using in this market?” My answer is always: What questions should you be asking buyers in this market? Overcoming objections is just about regaining control of the conversation. The best way to do that is by asking questions. Therefore, I'm here to bring you a three-question strategy you should be using to help drive conversations about the current market without coming off as very salesy.
 
-If you're talking to someone anxious, ask them, “What have you heard about the real estate market right now?” You'll probably hear all kinds of fear-based responses like “The market's terrible, now's a bad time to buy, and there's a crash coming.” Instead of going into defensive mode and fire-hosing them with information right away, instead ask, “Would you mind sharing your sources?” Don't ask in an aggressive way; just be curious. They'll probably respond with gossip from a friend or family member, or they read a headline but didn't get the full context.
+**If you're talking to someone anxious, ask them, “What have you heard about the real estate market right now?”** You'll probably hear all kinds of fear-based responses like “The market's terrible, now's a bad time to buy, and there's a crash coming.” Instead of going into defensive mode and fire-hosing them with information right away, ask: “Would you mind sharing your sources?” Don't ask in an aggressive way; just be curious. They'll probably respond with gossip from a friend or family member, or they read a headline but didn't get the full context.
 
 {% include pullquote.html %}
 
