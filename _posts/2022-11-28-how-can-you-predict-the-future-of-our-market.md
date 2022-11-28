@@ -3,6 +3,7 @@ layout: post
 title: How Can You Predict the Future of Our Market?
 date: 2022-11-28 00:00:00
 tags:
+  - Lead Generation
 excerpt: There’s no way to predict the market, but you can prepare for it.
 enclosure:
 pullquote: There are two things that are affecting the market right now.
