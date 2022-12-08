@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Coaches Are the Solution
-date:
+date: 2022-12-08 00:00:00
 tags:
   - Transaction Management
 excerpt: Our team is the solution for a shifting market.
