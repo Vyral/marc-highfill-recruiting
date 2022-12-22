@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consider This Strategic Move for Your Career
+title: Don’t Let the Shifting Market End Your Career
 date: 2022-12-21 00:00:00
 tags:
 excerpt: 'An excellent option for agents who are struggling to find clients. '
