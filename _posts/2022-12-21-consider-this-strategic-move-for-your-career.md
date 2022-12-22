@@ -9,7 +9,7 @@ pullquote: We invite you to join EXIT First Realty’s Referral Brokerage.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-19-22.jpg
+youtube_alternate_image: /uploads/12-19-22-yt.jpg
 youtube_code: oF-un1Ut7Ss
 hidden: false
 ---
