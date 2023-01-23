@@ -9,8 +9,8 @@ enclosure:
 pullquote: 'Here is one question you should be asking more often: “Why?”'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image:
-youtube_alternate_image: /uploads/1-20-23-marc-yt.jpg
+use_youtube_image: /uploads/1-23-23-marc-yt.jpg
+youtube_alternate_image: ''
 youtube_code: CWYC2E7AsaA
 hidden: false
 ---
@@ -32,7 +32,7 @@ The answer to these questions will help you focus on your reason for working. Th
 
 * Why is that location important to you?
 * Why do you like that style of home?
-* Why will making a move help you and your family?<br>
+* Why will making a move help you and your family?
 
 {% include pullquote.html %}
 
