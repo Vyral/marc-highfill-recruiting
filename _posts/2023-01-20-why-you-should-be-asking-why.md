@@ -10,7 +10,7 @@ pullquote: 'Here is one question you should be asking more often: “Why?”'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: /uploads/1-23-23-marc-yt.jpg
-youtube_alternate_image: ''
+youtube_alternate_image: /uploads/1-23-23-marc-yt.jpg
 youtube_code: CWYC2E7AsaA
 hidden: false
 ---
