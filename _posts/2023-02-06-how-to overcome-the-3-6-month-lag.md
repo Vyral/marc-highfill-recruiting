@@ -10,7 +10,7 @@ pullquote: As we start this new year, the sales cycle will be more normal.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-6-23-marc-yt.jpg
+youtube_alternate_image: /uploads/2-7-23-marc-yt.jpg
 youtube_code: w3UtwRnRUP8
 hidden: false
 ---
