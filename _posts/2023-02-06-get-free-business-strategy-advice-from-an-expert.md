@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Free Business Strategy Advice From an Expert
+title: How to Overcome the 3-6 Month Lag
 date: 2023-02-06 00:00:00
 tags:
   - Transaction Management
@@ -30,4 +30,4 @@ As we start this new year, the sales cycle will be more normal. This means the r
 
 To shorten the sales cycle and learn what activities you have to focus on, **you can contact us today for a free Business Strategy Session**. Our coaches can help you audit your business, determine what is and isn't working, and provide you with a clear game plan to achieve your 2023 goals and grow your business.
 
-If you're feeling stuck or uncertain about your business, call or email us. We are here to help. Remember, it's not the market...it's the marketing that makes the difference!
+If you're feeling stuck or uncertain about your business, call or email us. We are here to help. Remember, it's not the market…it's the marketing that makes the difference!
