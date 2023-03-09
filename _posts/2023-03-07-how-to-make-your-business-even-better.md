@@ -20,7 +20,7 @@ hidden: false
 
 Daily disciplined action is the most important thing to embrace in a changing real estate market. By embracing the “rule of five,” your business will grow in 2023. The rule of five was introduced by bestselling author and leadership coach, John Maxwell. It's a series of activities you do every day that are fundamental to your business for real estate. Those actions may vary from agent to agent based on your personal goals, but for the average agent, here's what I'd recommend:&nbsp;
 
-**1\. Create consistent lead flow.** You should take action daily to generate new leads and build your pipeline for future business. Find a couple of strategies that work for you, whether that be phone prospecting, internet leads, inspired listings, open houses, neighborhood farming, circle prospecting, or door knocking. You need to have new leads flowing in to ensure future business.&nbsp;
+**1\. Create consistent lead flow.** You should take action daily to generate new leads and build your pipeline for future business. Find a couple of strategies that work for you, whether that be phone prospecting, internet leads, expired listings, open houses, neighborhood farming, circle prospecting, or door knocking. You need to have new leads flowing in to ensure future business.&nbsp;
 
 **2\. Have a follow-up system.** You need to make sure to stay in contact with past clients and your center of influence, so create a system to hold yourself accountable. The best way to get referrals from people who already know, like, and trust you is to stay top of mind.
 
