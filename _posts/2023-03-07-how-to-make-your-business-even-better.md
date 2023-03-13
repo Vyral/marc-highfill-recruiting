@@ -10,8 +10,8 @@ pullquote: If you commit to doing these five activities daily, your business wil
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-7-23-marc-yt.jpg
-youtube_code: 1mRdUE_zCLU
+youtube_alternate_image: /uploads/3-13-23-marc-yt.jpg
+youtube_code: nIJw8ThniuU
 hidden: false
 ---
 {% include youtube.html %}
