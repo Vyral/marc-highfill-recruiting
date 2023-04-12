@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Proven Strategies To Boost Your Realty Business
+title: 3 Proven Strategies To Boost Your Business
 date: 2023-04-06 00:00:00
 tags:
   - Lead Generation
