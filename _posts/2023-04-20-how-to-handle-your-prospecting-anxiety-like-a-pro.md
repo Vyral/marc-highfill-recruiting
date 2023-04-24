@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Handle Your Prospecting Anxiety Like a Pro
+title: Overcoming Fear of Prospecting
 date: 2023-04-20 00:00:00
 tags:
   - Lead Generation
