@@ -18,9 +18,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-As a real estate agent, there’s probably one task you hate doing more than any other: prospecting. Whether you’re cold calling, knocking on doors, or talking to strangers at an open house, prospecting is often awkward. However, it’s absolutely necessary if you want to get more leads and grow your business.&nbsp;
+Every day I coach agents who have a fear of prospecting. &nbsp;Whether you’re cold calling, knocking on doors, or talking to people at an open house, prospecting can feel awkward. However, it’s absolutely necessary if you want to grow your business.&nbsp;
 
-If your hatred or fear of prospecting is holding you back from being the best agent you can be, don’t worry. Here are two simple tips to help you get over your prospecting anxiety:
+If your fear of prospecting is holding you back from being the best agent you can be, don’t worry - I have a solution. Here are two simple tips to help you get over your prospecting anxiety:
 
 **1\. Keep it simple.** Understand that prospecting is just talking to people. If you can have a conversation with your friends or a loved one, you can prospect. Make sure you keep topics simple and try to be as natural as possible. Stiff language will make people feel less like they’re talking to a friend.
 
