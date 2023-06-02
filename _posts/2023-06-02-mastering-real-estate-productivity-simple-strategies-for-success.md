@@ -10,7 +10,7 @@ pullquote: These strategies will help you focus on activities that truly help yo
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/marc-highfill-rec-email.jpg
+youtube_alternate_image: /uploads/marc-highfill-rec-yt.jpg
 youtube_code: 2Dna8pLpZTg
 hidden: false
 ---
