@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Social Media Strategies for Real Estate Success: Connect, Engage, Convert'
+title: How to Leverage Social Media to Grow Your Business
 date: 2023-06-16 00:00:00
 tags:
   - Lead Generation
