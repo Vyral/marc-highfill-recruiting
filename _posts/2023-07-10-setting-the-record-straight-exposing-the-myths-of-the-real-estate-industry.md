@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Setting the Record Straight: Exposing the Myths of the Real Estate Industry'
+title: Using Data to Debunk Misleading Headlines
 date: 2023-07-10 00:00:00
 tags:
   - Lead Conversion
