@@ -30,7 +30,7 @@ Before you start, make sure you understand that geofarming is a long-term plan. 
 
 You should also pay attention to who is selling homes in the area. If there's one agent who's already getting the majority of the listings in that neighborhood, they have a higher market share, so it will be more difficult for you to gain traction in that area.&nbsp;
 
-Once you've identified a good area, **put a plan in place before you start sending mail.** Remember, consistency is key. You should be sending out mail once a month, or more if you're able, but at least once each quarter. Plan out what you're going to send and then win before you begin to mail the materials.&nbsp;
+Once you've identified a good area, **put a plan in place before you start sending mail.** Remember, consistency is key. You should be sending out mail once a month, or more if you're able, but at least once each quarter. Plan out what you're going to send and when you're going to send it before you begin to mail the materials.&nbsp;
 
 Also, **make sure to combine your mailings with physical action in the farm area.** This includes knocking on doors, being present at the local restaurants and shops, or holding a community event inside your farming area. All of these strategies will help people think of you as a neighborhood expert.&nbsp;
 
