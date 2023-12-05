@@ -26,4 +26,4 @@ Having weathered major recessions, market booms, a pandemic, and everything in b
 
 If you're an experienced agent seeking to elevate your business to the next level, **schedule a call with one of our coaches.** We'll listen to your challenges and collaborate on exit strategies for your business. For new agents looking for additional support and a chance to learn from top producers, reach out to us as well.&nbsp;
 
-We look forward to hearing from you. And remember; it’s not the market… it’s the marketing that makes the difference!
+We look forward to hearing from you. And remember, It's Not the Market...it's the Marketing That Makes the Difference!!
