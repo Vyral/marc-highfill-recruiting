@@ -30,4 +30,4 @@ Embarking on a year-long business plan can seem like a daunting task, leaving ma
 
 **5\. Act now, don't wait for the new year.** Don't procrastinate until the New Year to set your goals for the first quarter. Take action now to kickstart your year with momentum. Waiting only delays your progress, so seize the opportunity to create your 12-week plan today.
 
-If you find yourself in need of assistance in creating an effective scorecard and goals for each quarter, don't hesitate to reach out to us. Our coaches can guide you in determining the activities crucial for your success and help you formulate a comprehensive plan to close more deals. Remember, it's not the market, it's the marketing that makes the difference.
+If you find yourself in need of assistance in creating an effective scorecard and goals for each quarter, don't hesitate to reach out to us. Our coaches can guide you in determining the activities crucial for your success and help you formulate a comprehensive plan to close more deals. Remember - It's Not the Market...It's the Marketing That Makes the Difference!
