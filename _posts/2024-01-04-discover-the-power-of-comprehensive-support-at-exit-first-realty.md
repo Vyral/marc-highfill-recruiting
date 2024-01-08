@@ -28,4 +28,4 @@ Moreover, at EXIT First Realty, we foster a supportive community of agents throu
 
 **Our coaches and brokers, who are active and high-producing agents themselves, offer timely advice to help you overcome challenges effectively.** Now, you might wonder about commission splits. Rest assured, we provide highly competitive splits, whether you choose to be an independent agent or join one of our teams. What's more, EXIT Realty's unique sponsorship program opens doors to earning over 100% commission.
 
-If you're seeking comprehensive business support to elevate your real estate career, don't hesitate to reach out to us today. Our coaches are here to listen to your goals and demonstrate how joining EXIT Realty can simplify your life as an agent. And remember, it’s not the market… it’s the marketing that makes the difference!!
+If you're seeking comprehensive business support to elevate your real estate career, don't hesitate to call or email us today. Our coaches are here to listen to your goals and demonstrate how joining EXIT Realty can simplify your life as an agent. And remember, it’s not the market… it’s the marketing that makes the difference!!
