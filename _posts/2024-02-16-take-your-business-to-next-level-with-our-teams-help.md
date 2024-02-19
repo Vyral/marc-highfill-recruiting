@@ -2,7 +2,7 @@
 layout: post
 title: Take Your Business to the Next Level with Our Team's Help
 date: 2024-02-16 00:00:00
-excerpt: Here’s what we offer new agents looking to join our real estate team.
+excerpt: Here’s how our team support can help you meet your goals this year.
 enclosure:
 pullquote: We address challenges in our dynamic real estate market.
 enclosure_type: video/mp4
@@ -24,4 +24,4 @@ Joining a team can offer the accountability, support, and coaching necessary to 
 
 As part of our team, you'll receive comprehensive transaction support from contract to close. We handle paperwork, allowing you to focus on relationship-building and home sales. **And yes, we provide leads—plenty of them.** Additionally, we offer coaching from reputable institutions, granting access to scripts, dialogues, and proven client acquisition strategies. Our team agents benefit from unique marketing and sales approaches that adapt to the evolving real estate landscape, ensuring effectiveness in any market condition. We're also proactive in seizing market opportunities, enabling our agents to thrive amidst market shifts.
 
-If you're interested in learning more about us or discussing how joining our team can elevate your business, just call or email us to learn more. Our coaches will listen to your goals and provide insights to help you make an informed decision for your career. And remember: It’s not the market… it’s the marketing that makes all the difference.
+If you're interested in learning more about us or discussing how joining our team can elevate your business, just call or email us to learn more. Our coaches will listen to your goals and provide insights to help you make an informed decision for your career. And remember: It's Not the Market...It's the Marketing That Makes the Difference!
