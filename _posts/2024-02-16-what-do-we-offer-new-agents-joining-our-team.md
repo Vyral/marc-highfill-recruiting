@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Do We Offer New Agents Joining Our Team?
+title: Take Your Business to the Next Level with Our Team's Help
 date: 2024-02-16 00:00:00
 excerpt: Here’s what we offer new agents looking to join our real estate team.
 enclosure:
