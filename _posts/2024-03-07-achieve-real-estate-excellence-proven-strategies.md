@@ -20,4 +20,4 @@ Are you a real estate agent looking to elevate your business from the occasional
 
 **Our unique marketing strategies are tailored to attract and convert more clients, ensuring that our coaching is as individual as your goals.** Through accountability and action, we empower agents to excel. As your business expands, our coaching adapts, providing solutions to new challenges with over 75 years of combined real estate experience.
 
-Interested in transforming your real estate career? Don’t hesitate to call us today. Our coaches are ready to listen to your ambitions and craft a customized plan using our proven system, setting you on the path to success. And always remember, It's Not the Market...it's the Marketing That Makes the Difference!!
+Interested in transforming your real estate career? Don’t hesitate to call us today. Our coaches are ready to listen to your ambitions and craft a customized plan using our proven system, setting you on the path to success. And always remember, It's Not the Market…it's the Marketing That Makes the Difference!!
