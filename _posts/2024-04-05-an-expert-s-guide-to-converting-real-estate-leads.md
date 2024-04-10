@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nm5SsX1JBX8
+youtube_code: 5b3PROrnIs0
 hidden: false
 ---
 {% include youtube.html %}
@@ -32,6 +32,6 @@ Today, we'll tackle five prevalent reasons why leads might not be converting and
 
 **5\. Time constraints.** Managing a large database of leads can be time-consuming, leading to missed opportunities. Implementing efficient follow-up systems is crucial, as speed to lead is paramount in real estate. Additionally, effective communication is vital for building trust and rapport with leads. Asking deeper, more personal questions will help you connect on a meaningful level and convert leads into clients more efficiently.
 
-Converting leads requires a proactive approach, effective communication, and a willingness to adapt to clients' preferences. If you're struggling to convert leads in your database, don't hesitate to reach out for personalized coaching and support. Our team is here to provide the tools and guidance you need to succeed in today's competitive real estate market. Remember - It's Not the Market...It's the Marketing That Makes the Difference!!
+Converting leads requires a proactive approach, effective communication, and a willingness to adapt to clients' preferences. If you're struggling to convert leads in your database, don't hesitate to reach out for personalized coaching and support. Our team is here to provide the tools and guidance you need to succeed in today's competitive real estate market. Remember - It's Not the Market…It's the Marketing That Makes the Difference!!
 
 <br>
