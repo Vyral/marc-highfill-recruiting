@@ -32,4 +32,4 @@ You might be thinking, What's the catch? Why would I do this?
 
 Believe it or not, I have seen many agents who don’t get the support they need to be successful. After getting their license, no one takes the time to mentor them to build a thriving career. That is why I am offering coaching sessions to raise the standard in the industry and better serve our clients.
 
-If you’re interested, reach out to me directly by phone or email. You can also directly [set a schedule on my calendar](https://calendly.com/marcaustinhighfill/30min). I look forward to helping you become the real estate agent you aspire to be. And always remember that in real estate, it’s not the market… it’s the marketing that makes a difference.
+If you’re interested, reach out to me directly by phone or email. You can also directly [set a schedule on my calendar](https://calendly.com/marcaustinhighfillcoach). I look forward to helping you become the real estate agent you aspire to be. And always remember that in real estate, it’s not the market… it’s the marketing that makes a difference.
