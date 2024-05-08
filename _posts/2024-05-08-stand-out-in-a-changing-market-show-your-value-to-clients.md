@@ -29,8 +29,8 @@ Demonstrate value to your clients by initiating consultations or presentations h
 
 {% include pullquote.html %}
 
-This is the type of philosophy that we, at EXIT First Realty, strive to cultivate. We make sure to coach each of our agents on extensive buyer and listing presentations so they are equipped with the tools to conduct comprehensive buyer and listing presentations when faced with a client. Our team offers a clear, unique selling point you cannot see anywhere else. **We believe that if you want to keep being successful through market changes, you need to stand out from the crowd.**
+This is the type of philosophy that we at EXIT First Realty strive to cultivate. We make sure to coach each of our agents on extensive buyer and listing presentations so they are equipped with the tools to conduct comprehensive buyer and listing presentations when faced with a client. Our team offers a clear, unique selling point you cannot see anywhere else. **We believe that if you want to keep being successful through market changes, you need to stand out from the crowd.**
 
 One of our unique selling points is our Easy Exit buyer-and-seller guarantee. If, for any reason, clients are not satisfied with our service, they have the freedom to cut ties with us without penalties or obligations. **This is a testament to our commitment to client satisfaction.** We want to make sure our clients are happy, which makes the whole team confident.
 
-For more tips on how to create value driven buyer and seller consultations, contact us today. You can call, text, or email us, and with our coaches, let’s create a strategy to prove your standout value and your commission, no matter how the industry changes. Remember, it’s not the market, it’s the marketing that makes the difference!
+For more tips on how to create value-driven buyer and seller consultations, contact us today. You can call, text, or email us, and with our coaches, let’s create a strategy to prove your standout value and your commission, no matter how the industry changes. Remember, it’s not the market, it’s the marketing that makes the difference!
