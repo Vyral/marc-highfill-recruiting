@@ -14,8 +14,6 @@ hidden: false
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Every day, there’s something new to look forward to in the housing market. As a real estate agent, it’s important to stay on top of your game to succeed. Personally, I understand the challenges that you face. That's why today, I’ll share with you 10 tips that you should focus on to elevate your business this year and the next:
 
 **1\. Prioritize buyer consultations.** Treat your buyers with the same care and attention you would a seller during a listing appointment. Moving forward, buyer consultations are going to become the new standard, so show your buyers why they should hire you. Present your marketing plan, pricing strategy, commission, and value proposition the same way you do during a listing appointment.
