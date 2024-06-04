@@ -22,7 +22,7 @@ Each one of your actions and behaviors affects your business. Setting big goals 
 
 **Set a personal scorecard.** Instead of trying to do everything all at once, make a “scorecard” with 1 to 2 important tasks that you need to complete for the day or week to push your business forward. It might be talking with new potential clients or adding a specific number of people to your database.
 
-<br>**Step it up by getting an accountability partner.** Asking for help from another person can help you stay on track. Lastly, you can set rewards or consequences when you meet or miss your scorecard. If you find yourself taking on too much, it’s okay to take a step back until you can accomplish your regular activities.
+**Step it up by getting an accountability partner.** Asking for help from another person can help you stay on track. Lastly, you can set rewards or consequences when you meet or miss your scorecard. If you find yourself taking on too much, it’s okay to take a step back until you can accomplish your regular activities.
 
 {% include pullquote.html %}
 
