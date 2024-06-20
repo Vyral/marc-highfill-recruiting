@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Become a Better Agent Through Daily Coaching
+title: Uncommon Issues Resolved through Teamwork
 date: 2024-06-19 00:00:00
 excerpt: Our daily coaching sessions can make us better real estate agents.
 enclosure:
