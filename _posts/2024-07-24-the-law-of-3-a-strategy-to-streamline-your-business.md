@@ -26,4 +26,4 @@ Want to dramatically boost your business before the year's end? It's all about f
 
 By narrowing your focus to these three core activities, you'll become more proficient at them and gain clarity on how to prioritize. This laser-like focus can propel your business to new heights.
 
-If you're struggling to pinpoint your top three activities or need guidance on implementing this strategy, our coaching team is here to help. Just give us a call or send us an email, and we'll work with you to create a focused plan to finish the year strong. As always, remember: it's not the market, it's the marketing that makes the difference!
+If you're struggling to pinpoint your top three activities or need guidance on implementing this strategy, our coaching team is here to help. Just give us a call or send us an email, and we'll work with you to create a focused plan to finish the year strong. And remember, It's Not the Market...It's the Marketing That Makes the Difference!
