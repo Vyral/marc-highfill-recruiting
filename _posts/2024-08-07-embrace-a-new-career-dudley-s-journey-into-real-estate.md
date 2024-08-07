@@ -49,7 +49,3 @@ He shared that one of the biggest reasons why he chose to enter the real estate 
 &nbsp;
 
 If you’d like to talk about making a career change into real estate, contact us today. **Call or send Dudley a message at (804) 837-8127 or Dudley@MarcsHomes.net. You can also reach out to me at (804) 527-3948 or Marc@MarcsHome.net.** We can discuss your goals and help create an action plan that works best for your needs. and remember - It’s Not the Market…It’s the Marketing That Makes the Difference!!
-
-<br>
-
-{% include pullquote.html %}
