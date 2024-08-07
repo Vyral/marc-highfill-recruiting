@@ -2,7 +2,7 @@
 layout: post
 title: 'Embrace a New Career: Dudley’s Journey Into Real Estate'
 date: 2024-08-07 00:00:00
-excerpt: Learnhow Dudley successfully shifted from electronics to real estate.
+excerpt: Learn how Dudley successfully shifted from electronics to real estate.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
