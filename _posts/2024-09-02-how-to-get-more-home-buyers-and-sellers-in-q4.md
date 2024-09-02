@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get More Home Buyers and Sellers in Q4
-date:
+date: 2024-09-02 00:00:00
 excerpt: Attract new clients by discussing lower rates and homeowner equity.
 enclosure:
 pullquote: >-
