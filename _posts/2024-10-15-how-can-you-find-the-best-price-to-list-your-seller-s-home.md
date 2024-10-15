@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/marc-highfill-yt-1.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/marc-highfill-yt.png){: width="1280" height="720"}
+![](/uploads/marc-highfill-yt-2-1.png){: width="600" height="337"}
 
 {% include excerpt.html %}
 
