@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mh-rec-open-house.jpg
 youtube_code:
 hidden: false
 ---
-![](/uploads/mh-rec-open-house-1.jpg){: width="600" height="400"}
+![](/uploads/mh-rec-open-house-1.jpg){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
