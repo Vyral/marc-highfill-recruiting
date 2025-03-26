@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do You Get More Referrals from Your Sphere in 2025?
+title: How Do You Get More Referrals from Your Sphere in 2025
 date: 2025-03-26 00:00:00
 tags:
 excerpt: >-
@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/referrals.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/referrals-2.png){: width="600" height="400"}
+![](/uploads/referrals-3.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
