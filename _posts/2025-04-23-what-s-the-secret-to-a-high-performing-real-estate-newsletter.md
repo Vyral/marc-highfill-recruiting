@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s the Secret to a High-Performing Real Estate Newsletter
+title: What’s the Secret to a High-Performing Real Estate Newsletter?
 date: 2025-04-23 00:00:00
 tags:
 excerpt: >-
@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/mh-at-rec.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mh-at-rec-1.png){: .center-img width="600" height="400"}
+![](/uploads/mh-at-rec-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
