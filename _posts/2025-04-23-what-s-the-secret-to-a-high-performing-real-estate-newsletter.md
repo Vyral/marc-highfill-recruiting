@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/mh-at-rec.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mh-at-rec-1.png){: width="600" height="400"}
+![](/uploads/mh-at-rec-1.png){: .center-img width="600" height="400"}
 
 {% include excerpt.html %}
 
