@@ -25,7 +25,7 @@ So, how do you make time for follow-up when your schedule’s already maxed out?
 
 **1\. Perfection is the enemy of progress.** One of the biggest traps agents fall into is waiting for the “perfect” moment to follow up. You know what I mean—you want quiet, a solid 30-minute block, all your notes in front of you. *Spoiler alert: that perfect window rarely shows up.*
 
-Instead, focus on what you can do with the time you have. A quick 90-second check-in is far better than nothing. Even something as simple as: *“Hey, just checking in—how’s your home search going?”* can restart the conversation and show you're engaged. The goal isn’t perfection—it’s consistency.
+Instead, focus on what you can do with the time you have. A quick 90-second check-in is far better than nothing. Even something as simple as: *“Hey, just checking in—how’s your home search going?”* can restart the conversation and show you’re engaged. The goal isn’t perfection—it’s consistency.
 
 **2\. Nail your opener and script.** When you’re this busy, every second matters. That’s why a solid opener and a go-to script are game-changers. Try something like: *“Hey \[First Name\], homes in your area are moving fast. I thought of you and wanted to make sure you had the latest info.”* This gives immediate context, adds value, and shows purpose, without wasting time. Practice your opener until it feels natural because the more confident you sound, the smoother your conversations will go.
 
