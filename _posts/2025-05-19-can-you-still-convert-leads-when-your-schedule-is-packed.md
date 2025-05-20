@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mh-schedule.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mh-schedule-1.png){: width="600" height="400"}
+![](/uploads/mh-schedule-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
