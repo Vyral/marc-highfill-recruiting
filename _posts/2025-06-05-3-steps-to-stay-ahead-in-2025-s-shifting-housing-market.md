@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/mah-rec-housing-market.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mah-rec-housing-market-2.png){: width="600" height="400"}
+![](/uploads/mah-rec-housing-market-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
