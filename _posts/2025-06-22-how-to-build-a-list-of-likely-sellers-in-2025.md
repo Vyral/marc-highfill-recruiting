@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/mhrec-email-list.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mhrec-email-list-2.png){: width="600" height="400"}
+![](/uploads/mhrec-email-list-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
