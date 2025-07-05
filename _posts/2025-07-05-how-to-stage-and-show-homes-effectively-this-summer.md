@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mah-homestage.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mah-homestage-1.png){: width="600" height="400"}
+![](/uploads/mah-homestage-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
