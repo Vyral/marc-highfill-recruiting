@@ -21,9 +21,9 @@ hidden: false
 
 Want your listings to sell faster this summer? Buyers aren’t just shopping for a house—they’re craving a lifestyle. The difference between ‘just another listing’ and a must-have home is simple: Strategic summer staging and showing that makes buyers not just appreciate the home, but actually envision themselves *living* there.
 
-Picture this: A backyard set for sunset gatherings with string lights glowing, a kitchen flooded with natural light, and every room cool, crisp, and clutter-free. Now, imagine buyers walking in, lemonade in hand, already mentally moving in. These six hot-weather staging and showing hacks don’t just showcase a property—they sell the dream of summer living. Ready to turn your listings into the ones buyers can’t resist? Here's the same 6-step formula I use to help listings stand out and sell faster:
+Picture this: A backyard set for sunset gatherings with string lights glowing, a kitchen flooded with natural light, and every room cool, crisp, and clutter-free. Now, imagine buyers walking in, lemonade in hand, already mentally moving in. These six hot-weather staging and showing hacks don’t just showcase a property—they sell the dream of summer living. Ready to turn your listings into the ones buyers can’t resist? Here’s the same 6-step formula I use to help listings stand out and sell faster:
 
-**1\. Stage for a summer lifestyle.** Buyers don't just want a house, they want to feel at home. In the summer, that means showcasing how the property accommodates outdoor living and warm-weather fun. Set up patio furniture to create a space for gatherings and relaxation. Add string lights, clean up grills or fire pits, and place a fresh pitcher of lemonade on the table. Every detail should help buyers picture themselves enjoying summer in that home.
+**1\. Stage for a summer lifestyle.** Buyers don’t just want a house, they want to feel at home. In the summer, that means showcasing how the property accommodates outdoor living and warm-weather fun. Set up patio furniture to create a space for gatherings and relaxation. Add string lights, clean up grills or fire pits, and place a fresh pitcher of lemonade on the table. Every detail should help buyers picture themselves enjoying summer in that home.
 
 **2\. Maximize natural light.** Light makes rooms feel bigger and more welcoming. Open blinds, clean the windows, and remove heavy curtains or furniture that blocks sunlight. Use mirrors to bounce light and schedule showings during peak daylight hours. Bright homes sell because they feel more open and alive.
 
@@ -37,4 +37,4 @@ Picture this: A backyard set for sunset gatherings with string lights glowing, a
 
 **6\. Use summer perks in your marketing.** Highlight outdoor features in your photos and videos—shade trees, patios, pools, or nearby parks. Write listing descriptions that sell the lifestyle: summer cookouts, quiet mornings, or evenings under the lights. Buyers want to feel something, not just read stats.
 
-If you'd like to walk through this formula together and apply it to your own listings, I'd be happy to help. Call or email me to schedule a consultation. Let's make this your strongest season yet.
+If you’d like to walk through this formula together and apply it to your own listings, I’d be happy to help. Call or email me to schedule a consultation. Let’s make this your strongest season yet.
