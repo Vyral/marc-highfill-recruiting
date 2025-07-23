@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/ai-tools.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/ai-tools-1.png)
+![](/uploads/ai-tools-3.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
