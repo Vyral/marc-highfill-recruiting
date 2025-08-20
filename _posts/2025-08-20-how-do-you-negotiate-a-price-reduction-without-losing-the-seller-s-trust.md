@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/highfill-rec-negotiate.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/highfill-rec-negotiate-1.png){: width="600" height="400"}
+![](/uploads/highfill-rec-negotiate-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
