@@ -19,7 +19,7 @@ youtube_alternate_image: /uploads/mah-rec-at-1-thumbnail.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mah-rec-at-1-thumbnail-2.png){: width="600" height="400"}
+![](/uploads/mah-rec-at-1-thumbnail-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
