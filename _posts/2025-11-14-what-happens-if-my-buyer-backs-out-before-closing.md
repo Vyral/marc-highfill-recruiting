@@ -18,6 +18,8 @@ youtube_alternate_image: /uploads/mahrec-buyer-backout.png
 youtube_code:
 hidden: false
 ---
+![](/uploads/mahrec-buyer-backout.png){: .center-image width="600" height="400"}
+
 {% include excerpt.html %}
 
 It’s every agent’s nightmare. The inspections are done, the financing is approved, the closing date is set, and then your buyer suddenly backs out. You’ve spent weeks guiding the deal, your seller has already packed, and now everything comes to a halt. When this happens, emotions run high. Buyers panic, sellers feel blindsided, and you’re the one everyone turns to for answers. Knowing exactly what to do next separates experienced agents from the rest.
