@@ -37,4 +37,4 @@ It’s important to note, however, that standard rates and payment strategies ca
 
 **4\. Watch the return.** A showing assistant should help you earn more or save more time. Track the hours they cover. Track the extra clients you can take because of them. If your income grows, the system is working. If not, adjust the plan.
 
-Hiring a showing assistant can help you grow faster and with less stress. You can serve more clients, keep your buyers happy, and protect your time. If you need assistance selecting the right pay plan or setting up your system, please don't hesitate to contact me. Call, text, or email me for a complimentary consultation. I’ll help you pick the best plan for your goals and your market.
+Hiring a showing assistant can help you grow faster and with less stress. You can serve more clients, keep your buyers happy, and protect your time. If you need assistance selecting the right pay plan or setting up your system, please don’t hesitate to contact me. Call, text, or email me for a complimentary consultation. I’ll help you pick the best plan for your goals and your market.
