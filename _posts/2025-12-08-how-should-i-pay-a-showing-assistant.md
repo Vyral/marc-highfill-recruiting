@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/mah-dec-at-1.png
 youtube_code:
 hidden: false
 ---
-![](/uploads/mah-dec-at-1-1.png){: width="600" height="400"}
+![](/uploads/mah-dec-at-1-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
