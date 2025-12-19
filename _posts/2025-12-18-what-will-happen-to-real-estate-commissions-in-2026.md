@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/mah-what-will-happen-to-real-estate-commission
 youtube_code:
 hidden: false
 ---
-![](/uploads/mah-what-will-happen-to-real-estate-commissions-in-2026.png)
+<img src="/uploads/mah-what-will-happen-to-real-estate-commissions-in-2026.png" alt="" style="width:100%; height:auto;">
 
 {% include excerpt.html %}
 
