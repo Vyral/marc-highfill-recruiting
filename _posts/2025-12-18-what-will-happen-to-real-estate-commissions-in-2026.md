@@ -8,7 +8,9 @@ excerpt: >-
   Get expert insights on how commissions are changing and how top agents can
   prepare now.
 enclosure:
-pullquote:
+pullquote: >-
+  The key is understanding your local norms and confidently explaining the best
+  approach for each client.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -16,7 +18,7 @@ youtube_alternate_image: /uploads/mah-what-will-happen-to-real-estate-commission
 youtube_code:
 hidden: false
 ---
-<img src="/uploads/mah-what-will-happen-to-real-estate-commissions-in-2026.png" alt="" style="width:100%; height:auto;">
+![](/uploads/mah-what-will-happen-to-real-estate-commissions-in-2026.png){: style="width:100%; height:auto;"}
 
 {% include excerpt.html %}
 
